@@ -1,16 +1,19 @@
 ---
 layout: page
+# layout: cv
 title: cv
 permalink: /cv/
 nav: true
 nav_order: 6
-# cv_pdf: /assets/pdf/CV_Chan_TBIRA.pdf # can also use external links here
-# cv_format: rendercv # options: rendercv, jsonresume
-# description: Emily Chan
-# toc:
-#   sidebar: left
+cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_format: rendercv # options: rendercv, jsonresume
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
 
 [Download CV](/assets/pdf/CV_Chan_TBIRA.pdf)
 
-<iframe src="/assets/pdf/cv.pdf" width="100%" height="1000px" style="border: none;"></iframe>
+<object data="/assets/pdf/CV_Chan_TBIRA.pdf" type="application/pdf" width="100%" height="1000px">
+  <p>Your browser may not display embedded PDFs. Please use the download link above.</p>
+</object>

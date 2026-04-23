@@ -278,8 +278,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chan]
+  first_name: [Emily, Emily Y. K., E. Y. K., Emily YK]
 
   style: apa
   locale: en

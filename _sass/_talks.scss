@@ -24,7 +24,7 @@ div.talks-date {
 }
 
 div.talks-content {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   line-height: 1.75;
   color: var(--global-text-color);
 }
@@ -35,10 +35,6 @@ div.talks-location {
   color: var(--global-text-color);
   text-align: left;
   white-space: nowrap;
-}
-
-span.talks-venue {
-  color: var(--global-theme-color);
 }
 
 span.talks-title {

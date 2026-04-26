@@ -6,15 +6,17 @@ nav: true
 nav_order: 4
 ---
 
-<!-- <div class="talks-list">
+<div class="talks-list">
 
+<!-- 
   <div class="talks-row">
     <div class="talks-date">Apr 15,<br>2026</div>
     <div class="talks-content">
       Presentation at the 44th annual conference of the International Society of Biomechanics in Sports: <span class="talks-title">Not one threshold fits all: comparing brain injury metrics at the same brain deformation across sports</span>.
     </div>
     <div class="talks-location">Loughborough,<br>UK</div>
-  </div> -->
+  </div> 
+-->
 
   <div class="talks-row">
     <div class="talks-date">Feb 24,<br>2026</div>

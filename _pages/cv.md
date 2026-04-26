@@ -12,8 +12,10 @@ nav_order: 6
 #   sidebar: left
 ---
 
+<!-- 
 [Download CV](/assets/pdf/CV_Chan_TBIRA.pdf)
 
 <object data="/assets/pdf/CV_Chan_TBIRA.pdf" type="application/pdf" width="100%" height="1000px">
   <p>Your browser may not display embedded PDFs. Please use the download link above.</p>
-</object>
+</object> 
+-->

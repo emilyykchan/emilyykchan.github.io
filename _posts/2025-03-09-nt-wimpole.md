@@ -2,10 +2,11 @@
 layout: post
 title: "Wimpole Estate"
 date: 2025-03-09
-description: "A short photo note from one of our closest National Trust places near home."
-tags: national-trust photography england cambridgeshire
+description: "My favourite National Trust place near home"
+tags: national-trust england cambridgeshire
 categories: out-of-office
 thumbnail: assets/img/national_trust/wimpole-donkey-2.jpg
+featured: true
 ---
 
 <style>

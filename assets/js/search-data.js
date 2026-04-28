@@ -99,6 +99,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-about-xgb-and-neural-networks-for-real-time-brain-strain-prediction-is-now-published-in-engineering-applications-of-artificial-intelligence",
           title: 'Our paper about XGB and neural networks for real-time brain strain prediction, is...',
           description: "",
+          section: "News",},{id: "news-i-served-as-a-reviewer-for-wcb-2026",
+          title: 'I served as a reviewer for WCB 2026.',
+          description: "",
           section: "News",},{id: "news-i-was-invited-by-prof-mike-loosemore-mbe-to-give-a-presentation-at-the-inaugural-concussion-working-group-meeting-at-iseh-about-using-biomechanics-model-to-study-brain-injury",
           title: 'I was invited by Prof Mike Loosemore, MBE to give a presentation at...',
           description: "",
@@ -110,10 +113,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-26-wcb-accepted/";
-            },},{id: "news-i-served-as-a-reviewer-for-wcb-2026",
-          title: 'I served as a reviewer for WCB 2026.',
-          description: "",
-          section: "News",},{id: "news-tada-our-work-on-comparing-brain-injury-metrics-across-sports-has-been-accepted-for-presentation-at-isbs-2026-at-loughborough-university",
+            },},{id: "news-tada-our-work-on-comparing-brain-injury-metrics-across-sports-has-been-accepted-for-presentation-at-isbs-2026-at-loughborough-university",
           title: ':tada: Our work on comparing brain injury metrics across sports has been accepted...',
           description: "",
           section: "News",},{id: "projects-contactless-jigsaw-puzzle-game",

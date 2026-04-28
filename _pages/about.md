@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Sports biomechanist | Machine Learning Engineer | National Trust Enthusiast
+subtitle: "Sports biomechanist | Machine Learning Engineer | National Trust Enthusiast 🌿"
 
 profile:
   align: right

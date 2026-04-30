@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-almosts",
+          title: "Almosts",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/almosts/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -44,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-reflections-from-the-fa-symposium",
+        },{id: "post-office-move",
+        
+          title: "Office move",
+        
+        description: "A very short office move, and some memories from the old office",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/office-move/";
+          
+        },
+      },{id: "post-reflections-from-the-fa-symposium",
         
           title: "Reflections from the FA Symposium",
         

@@ -3,7 +3,7 @@ layout: post
 title: "Lyveden"
 date: 2026-02-06
 description: "A muddy winter walk to an unfinished Elizabethan lodge"
-tags: national-trust england northamptonshire winter
+tags: national-trust england northamptonshire winter images
 categories: out-of-office
 thumbnail: assets/img/posts/national_trust/lyveden-building.jpg
 ---

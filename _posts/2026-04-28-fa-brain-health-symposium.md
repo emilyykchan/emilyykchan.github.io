@@ -5,6 +5,7 @@ date: 2026-04-28
 description: Reflections after attending the FA/PFA Brain Health Symposium
 tags: reflection football conference
 categories: research
+giscus_comments: true
 ---
 
 Last Friday, I had the opportunity to attend the FA and Professional Footballers’ Association Brain Health Symposium at St George’s Park, the National Football Centre. The event brought together people working across brain health research, including neuroscientists, biomechanists, clinicians, chief medical officers from different sports, and representatives from governing bodies.
@@ -44,3 +45,4 @@ That work is now [under review](/publications/#GhajariUnderReview), so please st
 Finally, St George’s Park itself was very impressive. When Qing drove me in that morning, we saw two football pitches and thought that was already quite a lot. Apparently there are twenty-five. It is a huge and beautiful venue, and it felt like a privilege to spend the day there, surrounded by people thinking seriously about brain health, football (and other sports), brain health, and the future of player welfare.
 
 Overall, I left the symposium with a stronger sense that this field needs many perspectives at once. Neuropathology tells us what may happen in the brain. Biomechanics helps us understand the mechanical pathway. Instrumented technologies help us measure exposure in the real world. Clinicians and governing bodies help translate evidence into policy. None of these perspectives is sufficient alone, but together they may help us ask better questions — and hopefully design better ways to protect players at every level of sport.
+

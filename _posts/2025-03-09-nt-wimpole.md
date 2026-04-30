@@ -5,7 +5,7 @@ date: 2025-03-09
 description: "My favourite National Trust place near home"
 tags: national-trust england cambridgeshire
 categories: out-of-office
-thumbnail: assets/img/national_trust/wimpole-donkey-2.jpg
+thumbnail: assets/img/posts/national_trust/wimpole-donkey-2.jpg
 featured: true
 ---
 
@@ -98,7 +98,7 @@ Wimpole Estate has become one of the National Trust places I associate most clos
 One of my favourite views is from the back of the house, looking out across the vast green parkland. There is something very calming about the openness of it: the long stretch of grass, the big sky, and the sheep wandering freely across the field, some marked with green paint. It is a simple scene, but one that always makes the estate feel spacious and alive.
 
 <div class="photo-diary-image photo-diary-image-wide">
-  <img src="{{ '/assets/img/national_trust/wimpole-estate.jpg' | relative_url }}" alt="The view from the back of Wimpole Hall">
+  <img src="{{ '/assets/img/posts/national_trust/wimpole-estate.jpg' | relative_url }}" alt="The view from the back of Wimpole Hall">
   <p class="photo-diary-caption">The view from the back of Wimpole Hall</p>
 </div>
 
@@ -106,12 +106,12 @@ My favourite part, though, is always Home Farm. I think many children would agre
 
 <div class="photo-diary-grid-2">
   <div>
-    <img src="{{ '/assets/img/national_trust/wimpole-donkey-1.jpg' | relative_url }}" alt="Charles the donkey at his enclosure">
+    <img src="{{ '/assets/img/posts/national_trust/wimpole-donkey-1.jpg' | relative_url }}" alt="Charles the donkey at his enclosure">
     <p class="photo-diary-caption">Charles at his enclosure</p>
   </div>
 
   <div>
-    <img src="{{ '/assets/img/national_trust/wimpole-donkey-2.jpg' | relative_url }}" alt="Charles the donkey walking towards me">
+    <img src="{{ '/assets/img/posts/national_trust/wimpole-donkey-2.jpg' | relative_url }}" alt="Charles the donkey walking towards me">
     <p class="photo-diary-caption">Charles walking towards me</p>
   </div>
 </div>
@@ -119,7 +119,7 @@ My favourite part, though, is always Home Farm. I think many children would agre
 The animals are probably what make each visit feel slightly different. The pigs are often busy waiting to be fed, the cows seem to spend their days eating with impressive concentration, and the hens move around with their soft, fluffy confidence. It is a small, ordinary kind of happiness, but that is exactly why I like it. Once, the horse Stanley walked out from his stable and let us rub his face, which was a lovely surprise.
 
 <div class="photo-diary-image">
-  <img src="{{ '/assets/img/national_trust/wimpole-hens.gif' | relative_url }}" alt="Fluffy hens at Wimpole Home Farm">
+  <img src="{{ '/assets/img/posts/national_trust/wimpole-hens.gif' | relative_url }}" alt="Fluffy hens at Wimpole Home Farm">
   <p class="photo-diary-caption">Fluffy hens at Wimpole Home Farm</p>
 </div>
 

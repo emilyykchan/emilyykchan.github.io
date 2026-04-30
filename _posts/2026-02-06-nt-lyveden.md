@@ -5,7 +5,7 @@ date: 2026-02-06
 description: "A muddy winter walk to an unfinished Elizabethan lodge"
 tags: national-trust england northamptonshire winter
 categories: out-of-office
-thumbnail: assets/img/national_trust/lyveden-building.jpg
+thumbnail: assets/img/posts/national_trust/lyveden-building.jpg
 ---
 
 <style>
@@ -70,7 +70,7 @@ We visited Lyveden on 6 February 2026, on one of those rare sunny winter days th
 We started from the orchard field, although at this time of year there was not much of an orchard to see. The walk itself was more memorable than expected, mostly because of the mud. It was the thick, sticky kind of winter mud that seems determined to keep part of your boots every time you lift a foot. At several points I felt as if each step had sunk an inch into the ground. Still, the low winter light and open fields made the walk feel strangely satisfying, even if it was not exactly effortless.
 
 <div class="photo-diary-image photo-diary-image-wide">
-  <img src="{{ '/assets/img/national_trust/lyveden-building.jpg' | relative_url }}" alt="The unfinished Garden Lodge at Lyveden">
+  <img src="{{ '/assets/img/posts/national_trust/lyveden-building.jpg' | relative_url }}" alt="The unfinished Garden Lodge at Lyveden">
   <p class="photo-diary-caption">The unfinished Garden Lodge at Lyveden.</p>
 </div>
 
@@ -79,14 +79,14 @@ After the long muddy walk, the Garden Lodge finally appeared. It looks like a ru
 There is something moving about that — not simply because the building was unfinished, but because so much thought had clearly gone into something that never became fully usable. It made the place feel less like a ruin of decay, and more like a preserved interruption: a plan, an ambition, and a life suddenly stopped.
 
 <div class="photo-diary-image">
-  <img src="{{ '/assets/img/national_trust/lyveden-outdoor.jpg' | relative_url }}" alt="Winter view around the water and landscape at Lyveden">
+  <img src="{{ '/assets/img/posts/national_trust/lyveden-outdoor.jpg' | relative_url }}" alt="Winter view around the water and landscape at Lyveden">
   <p class="photo-diary-caption">Winter light around the water and the landscape near the labyrinth.</p>
 </div>
 
 The landscape around the lodge was also beautiful in a quiet way. Near the labyrinth and the water, the bare trees were reflected in the still surface, and the reeds gave the whole place a soft winter texture. It was not colourful in the way a spring or summer garden might be, but the openness, the pale blue sky, and the dark branches made it feel very calm. The view had that particular English winter atmosphere: cold, slightly bare, but unexpectedly clear.
 
 <div class="photo-diary-image">
-  <img src="{{ '/assets/img/national_trust/lyveden-cafe.jpg' | relative_url }}" alt="Window view inside Lyveden Manor">
+  <img src="{{ '/assets/img/posts/national_trust/lyveden-cafe.jpg' | relative_url }}" alt="Window view inside Lyveden Manor">
   <p class="photo-diary-caption">Inside the manor, with winter light and reflections through the old windows.</p>
 </div>
 

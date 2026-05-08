@@ -46,7 +46,6 @@ Formal and semi-formal portraits of Cream at his most handsome... or not.
 
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/bright-eyes.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/flipped-under-bike.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/toast.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/kitchen-counter.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
@@ -57,6 +56,7 @@ These are the moments when Cream is clearly up to something.
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/xmas-gifts.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/xmas-bite-tree.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/flipped-under-bike.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/climbing.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 

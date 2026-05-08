@@ -29,14 +29,14 @@ In addition, we will present our translational project in progress at the **WCB 
 
 I am also very pleased that several works from my labmates were accepted to the congress. I am looking forward to sharing our recent work on computational biomechanics, brain injury metrics, and translational approaches to sport-related brain health.
 
+## <!-- Short version
 
-<!-- Short version
----
 layout: post
 title: Multiple presentations accepted at WCB 2026
 date: 2026-02-26 10:00:00+0000
 inline: false
 related_posts: false
+
 ---
 
 I am excited to share that several works from our group have been accepted at the World Congress of Biomechanics 2026.
@@ -47,14 +47,14 @@ My contributions include two oral presentations on brain strain modelling and sp
 
 - 🧠 **Representative sampling and brain strain**
   - 12 July 2026
-  - OA58 – *Computational Modeling of Injury II*
+  - OA58 – _Computational Modeling of Injury II_
 
 - 🧠 **Voxel-wise brain deformation across sports**
   - 14 July 2026
-  - OA145 – *Concussion / Brain Injury II*
+  - OA145 – _Concussion / Brain Injury II_
 
 - 🚀 **TRACE: real-time brain health monitoring in sport**
   - 14 July 2026
-  - OA128 – *Biomechanics in Practice: Clinical Translation, Sport Safety, and Society*
+  - OA128 – _Biomechanics in Practice: Clinical Translation, Sport Safety, and Society_
 
 I am also delighted that several works from my labmates were accepted to the congress. Looking forward to an exciting meeting and to sharing our recent work in computational biomechanics and sport-related brain injury. -->

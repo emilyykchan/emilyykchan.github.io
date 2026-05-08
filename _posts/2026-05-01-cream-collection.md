@@ -32,8 +32,10 @@ Cream is a small cat with a very large personality. This page is a photo collect
 </style>
 
 ## Naps
+
 Cream takes resting very seriously.
-> Sshhh I am napping. 
+
+> Sshhh I am napping.
 
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/abalone-nap.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -42,7 +44,8 @@ Cream takes resting very seriously.
 </swiper-container>
 
 ## Portraits
-Formal and semi-formal portraits of Cream at his most handsome... or not. 
+
+Formal and semi-formal portraits of Cream at his most handsome... or not.
 
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/bright-eyes.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -51,6 +54,7 @@ Formal and semi-formal portraits of Cream at his most handsome... or not.
 </swiper-container>
 
 ## Mischief
+
 These are the moments when Cream is clearly up to something.
 
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">

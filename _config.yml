@@ -7,17 +7,17 @@ first_name: Emily
 middle_name: Yik Kwan
 last_name: Chan
 contact_note: >
-  
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal site for Emily
 footer_text: >
-  
+
 keywords: portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://emilyykchan.github.io/ # the base hostname & protocol
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -127,18 +127,18 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 # external_sources:
-  # - name: National Trust
-  #   posts:
-  #     - url: https://www.nationaltrust.org.uk/
-  #       published_date: 2026-04-28
-  #   categories: [external-posts]
-  #   tags: [national-trust]
-  # - name: Google Blog
-  #   posts:
-  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-  #       published_date: 2024-05-14
-  #   categories: [external-posts]
-  #   tags: [google]
+# - name: National Trust
+#   posts:
+#     - url: https://www.nationaltrust.org.uk/
+#       published_date: 2026-04-28
+#   categories: [external-posts]
+#   tags: [national-trust]
+# - name: Google Blog
+#   posts:
+#     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+#       published_date: 2024-05-14
+#   categories: [external-posts]
+#   tags: [google]
 
 # -----------------------------------------------------------------------------
 # Newsletter

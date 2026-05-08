@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I served as a reviewer for [WCB 2026](https://wcb2026.com/). 
-
+I served as a reviewer for [WCB 2026](https://wcb2026.com/).

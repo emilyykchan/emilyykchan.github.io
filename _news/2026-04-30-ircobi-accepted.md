@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Short communication about subject-specific brain strain prediction accepted for IRCOBI 2026. 
+Short communication about subject-specific brain strain prediction accepted for IRCOBI 2026.

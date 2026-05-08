@@ -84,6 +84,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/nt-lyveden/";
           
         },
+      },{id: "post-cream-the-cat",
+        
+          title: "Cream the Cat",
+        
+        description: "A photo collection of Cream",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cream-collection/";
+          
+        },
       },{id: "post-wimpole-estate",
         
           title: "Wimpole Estate",

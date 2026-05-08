@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-office-move",
+        },{id: "post-farne-islands-puffins-boardwalks-and-a-very-wobbly-boat",
+        
+          title: "Farne Islands: Puffins, Boardwalks, and a Very Wobbly Boat",
+        
+        description: "A windy spring visit to Inner Farne, one of the most unusual National Trust places I have been to",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nt-farne/";
+          
+        },
+      },{id: "post-office-move",
         
           title: "Office move",
         

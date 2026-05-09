@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-farne-islands-puffins-boardwalks-and-a-very-wobbly-boat",
+        },{id: "post-ashridge-estate-in-different-seasons",
+        
+          title: "Ashridge Estate in different seasons",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nt-ashridge/";
+          
+        },
+      },{id: "post-farne-islands-puffins-boardwalks-and-a-very-wobbly-boat",
         
           title: "Farne Islands: Puffins, Boardwalks, and a Very Wobbly Boat",
         

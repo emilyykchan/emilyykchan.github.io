@@ -65,7 +65,8 @@ description: A growing map of National Trust and heritage places I have visited.
   }
 
   .nt-marker.national-trust-visited {
-    background: #2e7d32;
+    /*background: #2e7d32;*/
+    background: var(--global-theme-color);
   }
 
   .nt-marker.national-trust-unvisited {
@@ -95,13 +96,44 @@ description: A growing map of National Trust and heritage places I have visited.
 
   .nt-popup-meta {
     font-size: 0.85rem;
-    color: #666;
+    color: var(--global-text-color-light);
     margin-bottom: 0.35rem;
   }
 
   .nt-popup-note {
     font-size: 0.9rem;
     margin-bottom: 0.35rem;
+  }
+
+  /* Leaflet popup styling */
+  .leaflet-popup-content-wrapper,
+  .leaflet-popup-tip {
+    background: var(--global-bg-color);
+    color: var(--global-text-color);
+  }
+
+  .leaflet-popup-content {
+    color: var(--global-text-color);
+  }
+
+  .leaflet-popup-content a {
+    color: var(--global-theme-color);
+  }
+
+  .leaflet-container a.leaflet-popup-close-button {
+    color: var(--global-text-color-light);
+  }
+
+  .leaflet-container a.leaflet-popup-close-button:hover {
+    color: var(--global-text-color);
+  }
+
+  .nt-popup-meta {
+    color: var(--global-text-color-light);
+  }
+
+  .nt-popup-note {
+    color: var(--global-text-color);
   }
 </style>
 

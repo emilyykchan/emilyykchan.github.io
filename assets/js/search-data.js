@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-map",
+          title: "Map",
+          description: "A growing map of National Trust and heritage places I have visited.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/national-trust-map/";
+          },
         },{id: "post-ashridge-estate-in-different-seasons",
         
           title: "Ashridge Estate in different seasons",

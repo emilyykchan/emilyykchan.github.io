@@ -8,7 +8,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const ntCsvPath = mapElement.dataset.ntCsv;
 
   const map = L.map("nt-map", {
-    scrollWheelZoom: false,
+    scrollWheelZoom: true,
+    touchZoom: true,
   }).setView([52.7, -1.5], 6);
 
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -158,9 +159,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const note = place.Note ? `<div class="nt-popup-note">${place.Note}</div>` : "";
 
-    const post = place.Post ? `<a href="${place.Post}">Read blog post</a>` : "";
+    const link = place.Link
+      ? `<div class="nt-popup-link"><a href="${place.Link}" target="${
+          place.Link.startsWith("http") ? "_blank" : "_self"
+        }" rel="noopener noreferrer">${
+          place.Link.startsWith("http") ? "View property page" : "Read blog post"
+        }</a></div>`
+      : "";
 
-    return `${title}${meta}${note}${post}`;
+    return `${title}${meta}${note}${link}`;
   }
 
   function isSameOrVeryClosePlace(a, b) {

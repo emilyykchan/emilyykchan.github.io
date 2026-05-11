@@ -1,628 +1,628 @@
-Title,Latitude,Longitude,County,Visited,Date,HeritageGroup,Post,Note
-Abereiddi to Abermawr,51.93824,-5.207767,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/abereiddi-to-abermawr
-Alfred's Tower,51.114861,-2.365026,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/alfreds-tower
-Castlefield Viaduct,53.475178,-2.254759,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/castlefield-viaduct
-Coughton Court,52.243939,-1.879281,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/coughton-court
-Coventry Charterhouse,52.40119,-1.4948,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/coventry-charterhouse
-Cregennan,52.709828,-3.988609,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/cregennan
-Cwmtydu to New Quay,52.191394,-4.406872,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/cwmtydu-to-new-quay
-Dunham Massey,53.3832,-2.4045,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/dunham-massey
-Hafod y Bwch Commemorative Woodland,53.011913,-3.025094,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/hafod-y-bwch-commemorative-woodland
-Harting Down,50.95656,-0.875635,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/harting-down
-Holcombe Moor and Stubbins Estate,53.663547,-2.355444,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/holcombe-moor-and-stubbins-estate
-Marley Common,51.073106,-0.735607,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/marley-common
-Mendip Hills,51.296276,-2.721176,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/mendip-hills
-Munstead Wood,51.175704,-0.596164,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/munstead-wood
-Mwnt,52.1354,-4.64063,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/mwnt
-Ray Island,51.794601,0.906963,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/ray-island
-Tredegar House,51.561601,-3.028106,,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/tredegar-house
-Cemaes to Llanbadrig,53.415269,-4.446692,Anglesey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/cemaes-to-llanbadrig
-Cemlyn,53.412223,-4.515411,Anglesey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/cemlyn
-Plas Newydd House and Garden,53.202599,-4.21541,Anglesey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/plas-newydd-house-and-garden
-Porth Dafarch,53.287687,-4.650223,Anglesey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/porth-dafarch
-Bath Skyline,51.380882,-2.345693,Bath and NE Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/bath-skyline
-Bathampton Meadows,51.402102,-2.32078,Bath and NE Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/bathampton-meadows
-Dunstable Downs and Whipsnade Estate,51.865538,-0.537432,Bedfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/dunstable-downs-and-whipsnade-estate
-Moleskin and Markham Hills,51.94473,-0.44615,Bedfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/moleskin-and-markham-hills
-Sharpenhoe and Sundon Hills,51.95354,-0.450765,Bedfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/sharpenhoe
-Whipsnade Tree Cathedral,51.851636,-0.535889,Bedfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/whipsnade-tree-cathedral
-Willington Dovecote and Stables,52.137501,-0.3808,Bedfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/willington-dovecote-and-stables
-Ashdown,51.535999,-1.59116,Berkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/ashdown
-Basildon Park,51.4995,-1.11858,Berkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/basildon-park
-Maidenhead and Cookham Commons,51.559538,-0.714663,Berkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/maidenhead-and-cookham-commons
-Runnymede and Ankerwycke,51.44853,-0.56773,Berkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/runnymede-and-ankerwycke
-Simon's Wood and Finchampstead Ridges,51.364469,-0.843989,Berkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/simons-wood-and-finchampstead-ridges
-Blaise Hamlet,51.5061,-2.63912,Bristol,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/blaise-hamlet
-Leigh Woods,51.454221,-2.641826,Bristol,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/leigh-woods
-Ascott,51.902019,-0.700372,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/ascott
-Boarstall Duck Decoy,51.828999,-1.09014,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/boarstall-duck-decoy
-Boarstall Tower,51.821301,-1.09333,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/boarstall-tower
-Bradenham,51.66559,-0.80431,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/bradenham
-Buckingham Chantry Chapel,52.000999,-0.98665,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buckingham-chantry-chapel
-Chilterns Countryside,51.751671,-0.771511,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/chilterns-countryside
-Claydon,51.924599,-0.95617,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/claydon-house
-Cliveden,51.556596,-0.681394,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/cliveden
-Coombe Hill,51.74824,-0.76762,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/coombe-hill
-Dorneywood Garden,51.5546,-0.64688,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/dorneywood-garden
-Hughenden,51.650214,-0.756555,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/hughenden
-King's Head,51.816472,-0.813592,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/kings-head
-Long Crendon Courthouse,51.775002,-0.98567,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/long-crendon-courthouse
-Pitstone Windmill,51.831402,-0.62699,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/pitstone-windmill
-Stowe Gardens,52.022154,-1.00785,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/stowe-gardens
-Waddesdon,51.845406,-0.925868,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/waddesdon-manor
-Watlington Hill,51.63636,-0.97569,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/watlington-hill
-"West Wycombe Park, Village and Hill",51.641701,-0.80065,Buckinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/west-wycombe-park-village-and-hill
-"Anglesey Abbey, Gardens and Lode Mill",52.235915,0.2448,Cambridgeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cambridgeshire/anglesey-abbey-gardens-and-lode-mill
-Houghton Mill and Waterclose Meadows,52.3311,-0.1204,Cambridgeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cambridgeshire/houghton-mill-and-waterclose-meadows
-Peckover House and Garden,52.665487,0.154538,Cambridgeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cambridgeshire/peckover-house-and-garden
-Ramsey Abbey Gatehouse,52.448502,-0.0997,Cambridgeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cambridgeshire/ramsey-abbey-gatehouse
-Wicken Fen National Nature Reserve,52.3101,0.29291,Cambridgeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cambridgeshire/wicken-fen-national-nature-reserve
-Wimpole Estate,52.140004,-0.048846,Cambridgeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cambridgeshire/wimpole-estate
-Dinefwr,51.882099,-4.01424,Carmarthenshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/dinefwr
-Dolaucothi,52.0443,-3.94824,Carmarthenshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/dolaucothi
-Hafod Estate,52.347167,-3.809934,Ceredigion,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/hafod-estate
-Llanerchaeron,52.218201,-4.22546,Ceredigion,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/llanerchaeron
-Penbryn,52.139237,-4.491561,Ceredigion,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/penbryn
-Alderley Edge and Cheshire Countryside,53.296501,-2.21235,Cheshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/alderley-edge-and-cheshire-countryside
-Hare Hill,53.28368,-2.188858,Cheshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/hare-hill
-Little Moreton Hall,53.126499,-2.24874,Cheshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall
-Lyme,53.337002,-2.05322,Cheshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/lyme
-Nether Alderley Mill,53.281101,-2.23655,Cheshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/nether-alderley-mill
-Quarry Bank,53.345158,-2.240885,Cheshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/quarry-bank
-Tatton Park,53.327599,-2.37039,Cheshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/tatton-park
-Aberconwy House,53.28157,-3.82847,Conwy,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/aberconwy-house
-Bodnant Garden,53.236099,-3.79996,Conwy,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/bodnant-garden
-Conwy Suspension Bridge,53.281128,-3.828009,Conwy,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/conwy-suspension-bridge
-Great Orme,53.332401,-3.855484,Conwy,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/great-orme
-Tŷ Mawr Wybrnant,53.052502,-3.83218,Conwy,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/ty-mawr-wybrnant
-Ysbyty Ifan,53.023045,-3.726415,Conwy,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/ysbyty-ifan
-Antony,50.3848,-4.22563,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/antony
-Boscastle,50.690528,-4.694683,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/boscastle
-Bosveal,50.107933,-5.113446,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/bosveal
-Botallack,50.140729,-5.689126,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/botallack
-Cadsonbury,50.482736,-4.336397,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/cadsonbury
-Cape Cornwall,50.127187,-5.708801,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/cape-cornwall
-Carne and Pendower,50.207385,-4.937177,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/carne-and-pendower
-Carnewas at Bedruthan,50.481323,-5.032061,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/carnewas-at-bedruthan
-Chapel Porth,50.300003,-5.234277,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/chapel-porth
-Cotehele,50.494301,-4.22487,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/cotehele
-Cotehele Mill,50.492164,-4.233089,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/cotehele-mill
-Crantock Beach,50.407092,-5.113636,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/crantock-beach
-Duckpool,50.87657,-4.557695,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/duckpool
-East Pool Mine,50.231016,-5.262162,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/east-pool-mine
-Fowey Estuary,50.328865,-4.642749,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/fowey-estuary
-Glendurgan Garden,50.10914,-5.116531,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/glendurgan-garden
-Godolphin,50.1367,-5.36116,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/godolphin
-Godrevy,50.238321,-5.393736,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/godrevy
-Gunwalloe,50.041934,-5.270181,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/gunwalloe
-Holywell,50.385996,-5.142497,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/holywell
-Kynance Cove,49.97421,-5.225112,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/kynance-cove
-Lanhydrock,50.450248,-4.694002,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock
-Lansallos,50.33766,-4.568163,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/lansallos
-Lantic Bay,50.333005,-4.601389,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/lantic-bay
-Lantivet Bay,50.336196,-4.590936,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/lantivet-bay
-Lawrence House,50.638307,-4.362308,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/lawrence-house
-Levant Mine and Beam Engine,50.151983,-5.685585,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/levant-mine-and-beam-engine
-Lizard Point,49.961129,-5.204415,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/lizard-point
-Morwenstow,50.908706,-4.553768,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/morwenstow
-Mullion Cove,50.015386,-5.257529,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/mullion-cove
-Northcott Mouth,50.847404,-4.553248,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/northcott-mouth
-Penrose,50.085971,-5.302186,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/penrose
-Pentire,50.581861,-4.905772,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/pentire
-Poldhu Cove,50.03426,-5.259308,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/poldhu-cove
-Port Quin,50.588931,-4.866948,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/port-quin
-Porth,50.157783,-4.986733,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/porth
-Porthcurno,50.0473,-5.6558,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/porthcurno
-Sandymouth,50.861586,-4.553875,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/sandymouth
-St Agnes Head,50.31736,-5.232223,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/st-agnes-head
-St Anthony Head,50.141698,-5.014538,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/st-anthony-head
-St Michael's Mount,50.118099,-5.47565,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/st-michaels-mount
-The Dodman,50.21985,-4.803553,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/the-dodman
-Tintagel Old Post Office,50.663371,-4.751645,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/tintagel-old-post-office
-Trelissick,50.217241,-5.033782,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/trelissick
-Trengwainton Garden,50.127899,-5.5695,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/trengwainton-garden
-Trerice,50.38661,-5.03809,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/trerice
-Trevithick Cottage,50.2029,-5.3122,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/trevithick-cottage
-Trevose Head,50.546834,-5.034124,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/trevose-head
-Wheal Coates,50.306226,-5.231574,Cornwall,no,,National Trust,,https://www.nationaltrust.org.uk/visit/cornwall/wheal-coates
-Carrick-a-Rede,55.236698,-6.3328,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/carrick-a-rede
-Cushendun,55.12805,-6.04349,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/cushendun
-Divis and the Black Mountain,54.60074,-6.041651,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/divis-and-the-black-mountain
-Giant's Causeway,55.240807,-6.511572,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway
-Glenoe,54.799617,-5.832079,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/glenoe
-Islandmagee,54.847016,-5.727229,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/islandmagee
-Patterson's Spade Mill,54.700777,-6.043718,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/pattersons-spade-mill
-Templetown Mausoleum,54.706,-6.095,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/templetown-mausoleum
-The Crown Bar,54.5947,-5.9342,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/the-crown-bar
-White Park Bay,55.2289,-6.40669,County Antrim,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/white-park-bay
-Ardress House,54.445535,-6.591778,County Armagh,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/ardress-house
-Derrymore House,54.189943,-6.38358,County Armagh,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/derrymore-house
-The Argory,54.464905,-6.657732,County Armagh,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/the-argory
-Castle Ward,54.368301,-5.58034,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/castle-ward
-Lisnabreeny and Cregagh Glen,54.561886,-5.888972,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/lisnabreeny-and-cregagh-glen
-Minnowburn,54.548434,-5.952616,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/minnowburn
-Mount Stewart,54.551498,-5.60127,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/mount-stewart
-Murlough National Nature Reserve,54.234,-5.8636,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/murlough-national-nature-reserve
-Rowallane Garden,54.447102,-5.82684,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/rowallane-garden
-Strangford Lough,54.373741,-5.579002,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/strangford-lough
-The Mournes,54.171137,-6.083736,County Down,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/the-mournes
-Durham Coast,54.823619,-1.322313,County Durham,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/durham-coast
-Castle Coole,54.336184,-7.624401,County Fermanagh,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/castle-coole
-Crom,54.162601,-7.44284,County Fermanagh,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/crom
-Florence Court,54.258301,-7.72989,County Fermanagh,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/florence-court
-Mussenden Temple and Downhill Demesne,55.16789,-6.81085,County Londonderry,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/mussenden-temple-and-downhill-demesne
-Portstewart Strand,55.172117,-6.724648,County Londonderry,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/portstewart-strand
-Springhill,54.68729,-6.657566,County Londonderry,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/springhill
-Gray's Printing Press,54.82549,-7.463395,County Tyrone,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/grays-printing-press
-Wellbrook Beetling Mill,54.655052,-6.839538,County Tyrone,no,,National Trust,,https://www.nationaltrust.org.uk/visit/northern-ireland/wellbrook-beetling-mill
-Acorn Bank,54.646301,-2.59228,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/acorn-bank
-Aira Force and Gowbarrow Park,54.5751,-2.92949,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/aira-force-and-gowbarrow-park
-Allan Bank and Grasmere,54.460536,-3.029754,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/allan-bank-and-grasmere
-Arnside and Silverdale,54.189403,-2.844373,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/arnside-and-silverdale
-Borrowdale and Derwent Water,54.58304,-3.12789,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/borrowdale-and-derwent-water
-Buttermere Valley,54.51402,-3.27848,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/buttermere-valley
-Claife Viewing Station and Windermere West Shore,54.351458,-2.942319,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/claife-viewing-station-and-windermere-west-shore
-Dalton Castle,54.153801,-3.18896,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/dalton-castle
-Ennerdale,54.524792,-3.414473,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/ennerdale
-Eskdale and Duddon Valley,54.39935,-3.26743,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/eskdale-and-duddon-valley
-Fell Foot,54.27402,-2.952607,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/fell-foot
-Hill Top and Hawkshead,54.351101,-2.97054,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/hill-top
-Historic Steam Yacht Gondola,54.363899,-3.06483,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/steam-yacht-gondola
-Keld Chapel,54.523859,-2.691178,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/keld-chapel
-Sandscale Haws National Nature Reserve,54.170756,-3.225736,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/sandscale-haws-national-nature-reserve
-Sizergh,54.284168,-2.771612,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/sizergh
-Stagshaw Garden and Ambleside,54.417745,-2.956934,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/stagshaw-garden-and-ambleside
-Tabitha Twitchit's Bookshop,54.373798,-2.99525,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/beatrix-potter-gallery-and-hawkshead
-Tarn Hows and Coniston,54.387268,-3.038192,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/tarn-hows-and-coniston
-The Langdales,54.44897,-3.090295,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/the-langdales
-Townend,54.412498,-2.91477,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/townend
-Wasdale,54.45607,-3.26293,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/wasdale
-Whitehaven Coast,54.543763,-3.598891,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/whitehaven-coast
-Windermere and Footprint,54.389002,-2.911795,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/windermere-and-footprint
-Wordsworth House and Garden,54.663601,-3.36678,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/wordsworth-house-and-garden
-Wray,54.400611,-2.964237,Cumbria,no,,National Trust,,https://www.nationaltrust.org.uk/visit/lake-district/wray
-Graig Fawr,53.308753,-3.408942,Denbighshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/graig-fawr
-Calke Abbey,52.808253,-1.472834,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/calke-abbey
-Duffield Castle,52.9925,-1.4892,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/duffield-castle
-Foremark,52.8209,-1.5062,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/foremark
-Hardwick,53.167801,-1.30813,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/hardwick
-Hardwick Estate: Stainsby Mill,53.183275,-1.31952,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/hardwick-estate-stainsby-mill
-Kedleston Hall,52.9585,-1.53348,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/kedleston-hall
-"Kinder, Edale and the High Peak",53.3458,-1.8156,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/kinder-edale-and-the-high-peak
-"Longshaw, Burbage and the Eastern Moors",53.316263,-1.600686,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/longshaw-burbage-and-the-eastern-moors
-Staunton Harold,52.81089,-1.43062,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/staunton-harold
-The Children’s Country House at Sudbury,52.886299,-1.76674,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/the-childrens-country-house-at-sudbury
-The Old Manor,52.978401,-1.81594,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/the-old-manor
-Winster Market House,53.14169,-1.639948,Derbyshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/winster-market-house
-A la Ronde,50.641718,-3.408798,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/a-la-ronde
-Arlington Court and the National Trust Carriage Museum,51.145699,-3.98588,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/arlington-court-and-the-national-trust-carriage-museum
-Ashclyst Forest,50.787567,-3.421156,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/ashclyst-forest
-Baggy Point,51.136017,-4.245381,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/baggy-point
-Bideford Bay and Hartland,51.013201,-4.443378,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/bideford-bay-and-hartland
-Bradley,50.5256,-3.62486,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/bradley
-Branscombe,50.6922,-3.13646,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/branscombe
-Buckland Abbey,50.48139,-4.13374,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/buckland-abbey
-Cadover Bridge,50.463626,-4.036676,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/cadover-bridge
-Castle Drogo,50.697851,-3.806239,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/castle-drogo
-Clyston Mill,50.76573,-3.447534,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/clyston-mill
-Coleton Fishacre,50.345299,-3.53439,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/coleton-fishacre
-Compton Castle,50.472198,-3.59649,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/compton-castle
-Dartmouth and Kingswear Countryside,50.33256,-3.569913,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/dartmouth-and-kingswear-countryside
-Dunsland,50.825348,-4.258894,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/dunsland
-Finch Foundry,50.730202,-3.92589,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/finch-foundry
-Fingle Bridge,50.695276,-3.780949,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/fingle-bridge
-Greenway,50.382401,-3.5872,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/greenway
-Heddon Valley,51.215599,-3.92621,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/heddon-valley
-Killerton,50.792,-3.4565,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/killerton
-Knightshayes,50.920777,-3.485064,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/knightshayes
-Lorna Doone Valley,51.216183,-3.728033,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/lorna-doone-valley
-Loughwood Meeting House,50.788428,-3.061108,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/loughwood-meeting-house
-Lundy,51.1735,-4.67047,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/lundy
-Lydford Gorge,50.640698,-4.110355,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/lydford-gorge
-Mortehoe,51.187373,-4.198934,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/mortehoe
-Overbeck's Garden,50.2202,-3.78489,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/overbecks-garden
-Parke,50.594692,-3.689277,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/parke
-Plymbridge Woods,50.4089,-4.0786,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/plymbridge-woods
-Salcombe Countryside,50.229199,-3.81011,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/salcombe-countryside
-Saltram,50.3815,-4.08548,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/saltram
-Shaugh Bridge,50.453951,-4.06731,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/shaugh-bridge
-Shute Barton,50.7714,-3.05677,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/shute-barton
-Sidmouth countryside,50.693485,-3.207616,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/sidmouth-countryside
-South Milton Sands,50.259597,-3.857038,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/south-milton-sands
-Watersmeet,51.2211,-3.79444,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/watersmeet
-Wembury,50.316836,-4.084386,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/wembury
-Woolacombe,51.178733,-4.167389,Devon,no,,National Trust,,https://www.nationaltrust.org.uk/visit/devon/woolacombe
-Badbury Rings,50.827095,-2.058211,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/badbury-rings
-Brownsea Island,50.6884,-1.95622,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/brownsea-island
-Cerne Giant,50.812979,-2.475441,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/cerne-giant
-Clouds Hill,50.717878,-2.251675,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/clouds-hill
-Corfe Castle,50.64013,-2.0588,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/corfe-castle
-Eggardon Hill,50.748316,-2.644877,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/eggardon-hill
-Fontmell and Melbury Downs,50.967604,-2.163719,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/fontmell-and-melbury-downs
-Golden Cap,50.73693,-2.874292,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/golden-cap
-Hambledon Hill,50.911692,-2.22182,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/hambledon-hill
-Hardy Monument,50.686199,-2.54871,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/hardy-monument
-Hardy's Cottage,50.731308,-2.386136,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/hardys-cottage
-"Hardy's House, Max Gate",50.707901,-2.419803,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/hardys-house-max-gate
-Hive Beach,50.696606,-2.722042,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/hive-beach
-Hod Hill,50.875819,-2.203193,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/hod-hill
-Kingston Lacy,50.81696,-2.030503,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/kingston-lacy
-Lambert's and Coney's Castle,50.78438,-2.902129,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/lamberts-and-coneys-castle
-Lewesdon Hill,50.807833,-2.799555,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/lewesdon-hill
-Pilsdon Pen,50.8,-2.833333,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/pilsdon-pen
-Ringstead Bay,50.630861,-2.35342,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/ringstead-bay
-Spyway,50.6065,-2.005599,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/spyway
-Studland Bay,50.651732,-1.953806,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/studland-bay
-White Mill,50.805087,-2.061035,Dorset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/dorset/white-mill
-Crook Hall Gardens,54.782583,-1.575158,Durham,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/crook-hall-gardens
-Alfriston Clergy House,50.80616,0.15777,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/alfriston-clergy-house
-Bateman's,50.987701,0.37695,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/batemans
-Birling Gap and the Seven Sisters,50.742905,0.201166,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/birling-gap-and-the-seven-sisters
-Blackcap,50.895237,-0.04667,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/blackcap
-Bodiam Castle,51.000099,0.54741,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/bodiam-castle
-Cuckmere Valley,50.78974,0.139652,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/cuckmere-valley
-Ditchling Beacon,50.90084,-0.105186,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/ditchling-beacon
-Lamb House,50.949699,0.73426,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/lamb-house
-Monk's House,50.8396,0.01917,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/monks-house
-Sheffield Park and Garden,51,0.0094,East Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/sheffield-park-and-garden
-Maister House,53.743301,-0.32944,East Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/maister-house
-Bourne Mill,51.875999,0.91378,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/bourne-mill
-Copt Hall Marshes,51.795619,0.869801,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/copt-hall-marshes
-Danbury Commons and Blakes Wood,51.710061,0.576404,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/danbury-commons-and-blakes-wood
-Eastbury Manor House,51.534894,0.099462,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/eastbury-manor-house
-Grange Barn,51.869099,0.68332,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/grange-barn
-Hatfield Forest,51.8592,0.2363,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/hatfield-forest
-Northey Island,51.718012,0.702822,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/northey-island
-Paycocke's House and Garden,51.87075,0.68338,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/paycockes-house-and-garden
-Rayleigh Mount,51.587898,0.60605,Essex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/rayleigh-mount
-Ashleworth Tithe Barn,51.924198,-2.26572,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/ashleworth-tithe-barn
-Bibury,51.759018,-1.833845,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bibury
-Chedworth Roman Villa,51.819401,-1.92295,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/chedworth-roman-villa
-Crickley Hill,51.847053,-2.103022,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/crickley-hill
-Dover's Hill,52.053722,-1.803076,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/dovers-hill
-Hailes Abbey,51.9702,-1.92724,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/hailes-abbey
-Haresfield Beacon and Standish Wood,51.7784,-2.26233,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/haresfield-beacon-and-standish-wood
-Hidcote,52.084,-1.74364,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/hidcote
-Lodge Park and Sherborne Park Estate,51.8069,-1.79225,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/lodge-park-and-sherborne-park-estate
-Market Hall,52.050686,-1.780686,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/market-hall
-May Hill,51.888107,-2.443118,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/may-hill
-Minchinhampton and Rodborough Commons,51.707547,-2.211243,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/minchinhampton-and-rodborough-commons
-Newark Park,51.638802,-2.31369,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/newark-park
-Snowshill Manor and Garden,52.006093,-1.861509,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/snowshill-manor-and-garden
-Westbury Court Garden,51.822172,-2.410684,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/westbury-court-garden
-Woodchester Park,51.70473,-2.271464,Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/woodchester-park
-Carneddau and Glyderau,53.123603,-4.020383,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/carneddau-and-glyderau
-Craflwyn and Beddgelert,53.019931,-4.088592,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/craflwyn-and-beddgelert
-Dinas Dinlle,53.084117,-4.335902,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/dinas-dinlle
-Glan Faenol,53.204951,-4.196569,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/glan-faenol
-Llanbedrog beach,52.857872,-4.484416,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/llanbedrog-beach
-Morfa and Nant Bach,52.99772,-4.421594,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/morfa-and-nant-bach
-Mynydd Mawr and Braich y Pwll,52.798201,-4.760568,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/mynydd-mawr-and-braich-y-pwll
-Ogwen Cottage,53.123328,-4.018443,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/ogwen-cottage
-Penrhyn Castle and Garden,53.217338,-4.101378,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/penrhyn-castle-and-garden
-Pistyll,52.951053,-4.487515,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/pistyll
-Plas yn Rhiw,52.823399,-4.616,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/plas-yn-rhiw
-Porth Meudwy,52.795836,-4.724733,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/porth-meudwy
-Porth y Swnt,52.804818,-4.711694,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/porth-y-swnt
-Porthdinllaen,52.942939,-4.567633,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/porthdinllaen
-Porthor,52.832284,-4.723574,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/porthor
-South Eryri (Snowdonia),52.80119,-3.88969,Gwynedd,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/south-snowdonia
-Curbridge Nature Reserve,50.895322,-1.26269,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/curbridge-nature-reserve
-Foxbury,50.957814,-1.575196,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/foxbury
-Hinton Ampner,51.044591,-1.151521,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/hinton-ampner
-Ludshott Commons,51.1084,-0.77936,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/ludshott-commons
-Mottisfont,51.040011,-1.533176,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/mottisfont
-New Forest Northern Commons,50.873754,-1.767906,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/new-forest-northern-commons
-Sandham Memorial Chapel,51.344799,-1.33691,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/sandham-memorial-chapel
-Selborne Common,51.096107,-0.951764,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/selborne-common
-Stockbridge Down,51.115549,-1.456755,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/stockbridge-down
-Stockbridge Marsh,51.105655,-1.495436,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/stockbridge-marsh
-The Chase,51.364727,-1.367188,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/the-chase
-The Vyne,51.313783,-1.08401,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/the-vyne
-West Green House Garden,51.300978,-0.931629,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/west-green-house-garden
-Winchester City Mill,51.062,-1.30771,Hampshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/hampshire/winchester-city-mill
-Berrington Hall,52.269501,-2.71427,Herefordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/berrington-hall
-Brockhampton,52.1991,-2.4569,Herefordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/brockhampton
-Croft Castle and Parkland,52.284199,-2.79835,Herefordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croft-castle-and-parkland
-Herefordshire Countryside,52.0353,-2.3505,Herefordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/herefordshire-countryside
-The Weir Garden,52.072899,-2.82203,Herefordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-weir-garden
-Ashridge Estate,51.805599,-0.58542,Hertfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/ashridge-estate
-Morven Park,51.700131,-0.174226,Hertfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/morven-park
-Shaw's Corner,51.836215,-0.26844,Hertfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/shaws-corner
-Bembridge Windmill,50.684213,-1.094381,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/bembridge-windmill
-Bembridge and Culver Downs,50.671156,-1.11801,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/bembridge-and-culver-downs
-Borthwood Copse,50.656034,-1.199914,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/borthwood-copse
-Chillerton Down,50.64444,-1.32073,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/chillerton-down
-Compton Bay and Downs,50.655106,-1.466488,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/compton-bay-and-downs
-Mottistone Gardens and Estate,50.652447,-1.4284,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/mottistone-gardens-and-estate
-Newtown National Nature Reserve and Old Town Hall,50.713617,-1.401415,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/newtown-national-nature-reserve-and-old-town-hall
-St Catherine's Down and Knowles Farm,50.58043,-1.302837,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/st-catherines-down-and-knowles-farm
-St Helens Duver,50.698751,-1.099596,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/st-helens-duver
-The Needles Headland and Tennyson Down,50.668967,-1.542082,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/the-needles-headland-and-tennyson-down
-The Needles Old Battery and New Battery,50.666543,-1.565839,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/the-needles-old-battery-and-new-battery
-Ventnor Downs,50.603989,-1.197933,Isle of Wight,no,,National Trust,,https://www.nationaltrust.org.uk/visit/isle-of-wight/ventnor-downs
-Chartwell,51.2459,0.083513,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/chartwell
-Chiddingstone Village,51.185947,0.14645,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/chiddingstone-village
-Cobham Wood and Mausoleum,51.38846,0.433238,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/cobham-wood-and-mausoleum
-Coldrum Long Barrow,51.32197,0.36661,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/coldrum-long-barrow
-Emmetts Garden,51.250599,0.11573,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/emmetts-garden
-Ightham Mote,51.258598,0.27088,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/ightham-mote
-Knole,51.267601,0.20122,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/knole
-Old Soar Manor,51.263076,0.319997,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/old-soar-manor
-Oldbury Hill,51.2788,0.26221,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/oldbury-hill
-One Tree Hill,51.256654,0.232781,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/one-tree-hill
-Owletts,51.39313,0.391894,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/owletts
-Petts Wood and Hawkwood,51.398808,0.082993,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/petts-wood-and-hawkwood
-Quebec House,51.268002,0.07833,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/quebec-house
-Scotney Castle,51.092783,0.408198,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/scotney-castle
-Sissinghurst Castle Garden,51.11576,0.58287,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/sissinghurst-castle-garden
-Smallhythe Place,51.0383,0.70182,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/smallhythe-place
-South Foreland Lighthouse,51.13152,1.338825,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/south-foreland-lighthouse
-St. John's Jerusalem,51.4095,0.24053,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/st-johns-jerusalem
-Stoneacre,51.2533,0.58178,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/stoneacre
-The Royal Oak Foundation Conservation Studio,51.26717,0.19741,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/the-royal-oak-foundation-conservation-studio
-The White Cliffs of Dover,51.132046,1.337537,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover
-Toys Hill,51.248285,0.101976,Kent,no,,National Trust,,https://www.nationaltrust.org.uk/visit/kent/toys-hill
-Gawthorpe Hall,53.803799,-2.29093,Lancashire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/gawthorpe-hall
-Heysham Coast,54.046973,-2.902574,Lancashire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/heysham-coast
-Rufford Old Hall,53.63775,-2.81365,Lancashire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/rufford-old-hall
-Staunton Harold Church,52.783401,-1.43658,Leicestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/staunton-harold-church
-Stoneywell,52.703427,-1.270649,Leicestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/stoneywell
-Ulverscroft Nature Reserve,52.701401,-1.27259,Leicestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/ulverscroft-nature-reserve
-Belton Estate,52.94313,-0.62015,Lincolnshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate
-Grantham House,52.914799,-0.63818,Lincolnshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/grantham-house
-"Gunby Estate, Hall and Gardens",53.178001,0.19669,Lincolnshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/gunby-estate-hall-and-gardens
-Gunby Estate: Monksthorpe Chapel,53.164902,0.16874,Lincolnshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/gunby-hall-estate-monksthorpe-chapel
-Sandilands,53.298127,0.294369,Lincolnshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/sandilands
-Tattershall Castle,53.101002,-0.19063,Lincolnshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/tattershall-castle
-Woolsthorpe Manor,52.80876,-0.62985,Lincolnshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/woolsthorpe-manor
-Formby,53.563,-3.09217,Liverpool,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/formby
-Speke Hall,53.336498,-2.87353,Liverpool,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/speke-hall
-The Beatles' Childhood Homes,53.376751,-2.880458,Liverpool,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/the-beatles-childhood-homes
-2 Willow Road,51.557499,-0.16861,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/2-willow-road
-575 Wandsworth Road,51.46979,-0.140628,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/575-wandsworth-road
-Fenton House and Garden,51.558773,-0.180926,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/fenton-house-and-garden
-George Inn,51.503799,-0.08904,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/george-inn
-Morden Hall Park,51.400611,-0.188722,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/morden-hall-park
-Rainham Hall,51.521696,0.193162,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/rainham-hall
-Red House,51.455623,0.130255,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/red-house
-Sutton House and Breaker's Yard,51.548,-0.04921,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/sutton-house-and-breakers-yard
-The Carlyles' House,51.484326,-0.170021,London,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/the-carlyles-house
-The Hardmans' House,53.399843,-2.973728,Merseyside,no,,National Trust,,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/the-hardmans-house
-Osterley Park and House,51.489498,-0.35289,Middlesex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/osterley-park-and-house
-Skenfrith Castle,51.8778,-2.78942,Monmouthshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/skenfrith-castle
-Sugar Loaf and Usk Valley,51.844095,-3.062519,Monmouthshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/sugar-loaf-skirrid-and-usk-valley
-The Kymin,51.809101,-2.68323,Monmouthshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/the-kymin
-Aberdulais,51.680698,-3.77791,Neath Port Talbot,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/aberdulais
-Blakeney National Nature Reserve,52.956365,1.017881,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/blakeney-national-nature-reserve
-Blickling Estate,52.812,1.23139,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/blickling-estate
-Brancaster Estate,52.9669,0.66877,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/brancaster-estate
-Darrow Wood,52.455557,1.332216,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/darrow-wood
-Elizabethan House Museum,52.605,1.72721,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/elizabethan-house-museum
-"Felbrigg Hall, Gardens and Estate",52.907469,1.259425,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/felbrigg-hall-gardens-and-estate
-Horsey Windpump,52.74247,1.638635,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/horsey-windpump
-Morston Quay,52.957811,0.985896,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/morston-quay
-Oxburgh Estate,52.581215,0.570269,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/oxburgh-estate
-Sheringham Park,52.924079,1.181416,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/sheringham-park
-St George's Guildhall,52.755553,0.393518,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/st-georges-guildhall
-The Textile Conservation Studio,52.80089,1.191523,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/the-textile-conservation-studio
-West Runton and Beeston Regis Heath,52.92557,1.247689,Norfolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/norfolk/west-runton-and-beeston-regis-heath
-Cadbury Camp,51.4479,-2.78711,North Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/cadbury-camp
-Clevedon Court,51.439657,-2.831597,North Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/clevedon-court
-Tyntesfield,51.4485,-2.71889,North Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/tyntesfield
-Beningbrough,54.022099,-1.21315,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough
-Braithwaite Hall,54.2668,-1.81933,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/braithwaite-hall
-"Bridestones, Crosscliff and Blakey Topping",54.302502,-0.66015,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/bridestones-crosscliff-and-blakey-topping
-Brimham Rocks,54.081699,-1.67613,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks
-Fountains Abbey and Studley Royal Water Garden,54.1096,-1.58033,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden
-Goddards,53.940102,-1.10261,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/goddards
-"Mount Grace Priory, House and Gardens",54.380402,-1.30984,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/mount-grace-priory
-Nunnington Hall,54.204601,-0.97233,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall
-Ormesby Hall,54.5432,-1.1829,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/ormesby-hall
-Rievaulx Terrace,54.253899,-1.11556,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/rievaulx-terrace
-Roseberry Topping,54.5056,-1.10471,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/roseberry-topping
-"Treasurer's House, York",53.962764,-1.080973,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/treasurers-house-york
-Yorkshire Coast,54.400398,-0.48725,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/yorkshire-coast
-Yorkshire Dales,54.104698,-2.17682,North Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/yorkshire-dales
-Canons Ashby,52.149502,-1.16034,Northamptonshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/canons-ashby
-Lyveden,52.4623,-0.5582,Northamptonshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/lyveden
-"Priest's House, Easton on the Hill",52.629364,-0.509512,Northamptonshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/priests-house-easton-on-the-hill
-Allen Banks and Staward Gorge,54.9709,-2.31704,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/allen-banks-and-staward-gorge
-Cherryburn,54.957001,-1.88361,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/cherryburn
-Cragside,55.312599,-1.8817,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/cragside
-Dunstanburgh Castle,55.4911,-1.59632,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/dunstanburgh-castle
-Embleton and Newton Links,55.512768,-1.618353,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/embleton-and-newton-links
-Farne Islands,55.616001,-1.6538,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/farne-islands
-George Stephenson's Birthplace,54.979287,-1.80473,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/george-stephensons-birthplace
-Hadrian's Wall,55.013199,-2.32881,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/hadrians-wall-and-housesteads-fort
-Lindisfarne Castle,55.6698,-1.78756,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/lindisfarne-castle
-Seaton Delaval Hall,55.082846,-1.496508,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/seaton-delaval-hall
-Wallington,55.1507,-1.95144,Northumberland,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/wallington
-Clumber Park,53.269905,-1.072069,Nottinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/clumber-park
-Mr Straw's House,53.315041,-1.115445,Nottinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/mr-straws-house
-The Workhouse and Infirmary,53.0795,-0.93981,Nottinghamshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/the-workhouse-and-infirmary
-Badbury,51.6505,-1.6227,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/badbury
-Buscot Old Parsonage,51.679798,-1.66544,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-old-parsonage
-Buscot Park,51.6703,-1.64498,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-park
-Buscot Village,51.676879,-1.66739,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-village
-Chastleton,51.960098,-1.63895,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/chastleton
-Coleshill Village and Parkland,51.640307,-1.660506,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/coleshill-village-parkland
-Great Coxwell Barn,51.642799,-1.61404,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/great-coxwell-barn
-Greys Court,51.5452,-0.95151,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/greys-court
-Nuffield Place,51.585772,-1.02099,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/nuffield-place
-Priory Cottage,51.620098,-1.32658,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/priory-cottage
-White Horse Hill,51.577465,-1.567032,Oxfordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/white-horse-hill
-Barafundle Bay,51.61837,-4.904087,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/barafundle-bay
-Broad Haven South,51.60854,-4.9221,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/broad-haven-south
-Cilgerran Castle,52.0574,-4.63413,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/cilgerran-castle
-Cleddau Woodlands,51.719232,-4.878005,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/cleddau-woodlands
-Colby Woodland Garden,51.742001,-4.67168,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/colby-woodland-garden
-Freshwater West and Gupton Farm,51.65007,-5.04454,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/freshwater-west-and-gupton-farm
-Marloes Sands and Mere,51.726572,-5.218818,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/marloes-sands-and-mere
-"Martin's Haven, Pembrokeshire",51.736013,-5.245087,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/martins-haven-pembrokeshire
-Porthclais,51.87106,-5.28437,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/porthclais
-Solva Coast,51.874002,-5.188659,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/solva-coast
-Southwood Estate,51.8509,-5.1142,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/southwood-estate
-St David's Peninsula,51.880868,-5.26617,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/st-davids-peninsula
-Stackpole Estate,51.612813,-4.926159,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/stackpole-estate
-Stackpole Quay,51.62394,-4.90035,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/stackpole-quay
-Strumble Head to Cardigan,52.006828,-5.064023,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/garn-fawr-to-poppit-sands
-The St David’s Visitor Centre and Shop,51.880299,-5.26292,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/st-davids-peninsula-visitor-centre-and-shop
-Tudor Merchant's House,51.671299,-4.69714,Pembrokeshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/tudor-merchants-house
-Abergwesyn Common,52.160639,-3.676753,Powys,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/abergwesyn-common
-Bannau Brycheiniog (Brecon Beacons),51.869149,-3.473123,Powys,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/bannau-brycheiniog-brecon-beacons
-Henrhyd Falls,51.79411,-3.6643,Powys,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/henrhyd-falls
-Powis Castle and Garden,52.6492,-3.15764,Powys,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/powis-castle-and-garden
-Attingham Park,52.685842,-2.671193,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/attingham-park
-Attingham Park Estate: Cronkhill,52.669399,-2.68733,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/attingham-park-estate-cronkhill
-Attingham Park Estate: Town Walls Tower,52.705002,-2.75512,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/attingham-park-estate-town-walls-tower
-Benthall Hall,52.6208,-2.50303,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/benthall-hall
-Carding Mill Valley on the Long Mynd,52.5448,-2.82018,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/carding-mill-valley-on-the-long-mynd
-Dudmaston Estate Comer Woods,52.507253,-2.381178,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/dudmaston-estate-comer-woods
-Dudmaston Hall,52.495701,-2.36803,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/dudmaston
-Ironbridge Gorge,52.639733,-2.493044,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/ironbridge-gorge
-Sunnycroft,52.6955,-2.5167,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/sunnycroft
-Wenlock Edge,52.5915,-2.57391,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/wenlock-edge
-Wilderhope Manor,52.529301,-2.6725,Shropshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/wilderhope-manor
-Coed Môr,53.222475,-4.183756,Sir Fôn,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/coed-mor
-Barrington Court,50.960499,-2.85778,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/barrington-court
-Bath Assembly Rooms,51.385799,-2.36123,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/bath-assembly-rooms
-Bossington,51.22117,-3.582119,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/bossington
-Brean Down,51.324402,-3.01443,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/brean-down
-Cheddar Gorge,51.28534,-2.764218,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/cheddar-gorge
-Coleridge Cottage,51.151657,-3.157475,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/coleridge-cottage
-Dunster Castle and Watermill,51.186187,-3.438736,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/dunster-castle-and-watermill
-Fyne Court,51.082907,-3.112139,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/fyne-court
-Glastonbury Tor,51.143368,-2.707853,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/glastonbury-tor
-Horner Wood,51.184803,-3.585608,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/horner-wood
-King John's Hunting Lodge,51.2864,-2.82384,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/king-johns-hunting-lodge
-Lytes Cary Manor,51.037258,-2.667,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/lytes-cary-manor
-Montacute House,50.950569,-2.715212,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/montacute-house
-"Priest's House, Muchelney",51.021042,-2.815183,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/priests-house-muchelney
-Prior Park Landscape Garden,51.365851,-2.345748,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/prior-park-landscape-garden
-Sand Point,51.388837,-2.963809,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/sand-point
-Selworthy,51.210558,-3.547135,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/selworthy
-Stembridge Tower Mill,51.071268,-2.810663,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/stembridge-tower-mill
-Stoke-sub-Hamdon Priory,50.953933,-2.750884,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/stoke-sub-hamdon-priory
-Tintinhull Garden,50.97485,-2.710639,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/tintinhull-garden
-"Treasurer's House, Martock",50.968954,-2.768038,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/treasurers-house-martock
-Webber's Post,51.18288,-3.571351,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/webbers-post
-Wellington Monument,50.948397,-3.229276,Somerset,no,,National Trust,,https://www.nationaltrust.org.uk/visit/somerset/wellington-monument
-Dyrham Park,51.4805,-2.3629,South Gloucestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/bath-bristol/dyrham-park
-Wentworth Castle Gardens,53.527001,-1.518116,South Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens
-Biddulph Grange Garden,53.129601,-2.15629,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/biddulph-grange-garden
-Downs Banks,52.927613,-2.150201,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/downs-banks
-Hawksmoor,52.995079,-1.943121,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/hawksmoor
-"Ilam Park, Dovedale and the White Peak",53.052624,-1.805627,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/ilam-park-dovedale-and-the-white-peak
-Kinver Edge and the Rock Houses,52.450109,-2.242739,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/kinver-edge-and-the-rock-houses
-Letocetum Roman Baths and Museum,52.657001,-1.85605,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/letocetum-roman-baths-and-museum
-Moseley Old Hall,52.635101,-2.10463,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/moseley-old-hall
-Shugborough Estate,52.789294,-2.033064,Staffordshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate
-Dunwich Heath and Beach,52.25889,1.626715,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/dunwich-heath-and-beach
-Flatford,51.957802,1.0261,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/flatford
-Ickworth Estate,52.220965,0.657049,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/ickworth-estate
-Kyson Hill,52.080922,1.309956,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/kyson-hill
-Lavenham Guildhall,52.10876,0.79662,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/lavenham-guildhall
-Melford Hall,52.0844,0.7281,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/melford-hall
-Orford Ness National Nature Reserve,52.087399,1.54772,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/orford-ness-national-nature-reserve
-Pin Mill,51.996323,1.213511,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/pin-mill
-Sutton Hoo,52.095652,1.349691,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/sutton-hoo
-Theatre Royal Bury St Edmunds,52.24063,0.716911,Suffolk,no,,National Trust,,https://www.nationaltrust.org.uk/visit/suffolk/theatre-royal-bury-st-edmunds
-Abinger Roughs and Netley Park,51.221382,-0.436988,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/abinger-roughs-and-netley-park
-Black Down,51.070007,-0.687341,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/black-down
-Bookham Commons,51.289827,-0.380458,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/bookham-commons
-Box Hill,51.248901,-0.3101,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/box-hill
-Clandon Park,51.252169,-0.505899,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/clandon-park
-Claremont Landscape Garden,51.355785,-0.381433,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/claremont-landscape-garden
-Denbies Hillside,51.240398,-0.361131,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/denbies-hillside
-Frensham Little Pond,51.169901,-0.772727,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/frensham-little-pond
-Ham House and Garden,51.443199,-0.31505,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/london/ham-house-and-garden
-Harewoods,51.204693,-0.099284,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/harewoods
-Hatchlands Park,51.253544,-0.477602,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/hatchlands-park
-Headley Heath,51.263536,-0.281475,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/headley-heath
-Hindhead Commons and the Devil's Punch Bowl,51.113998,-0.72858,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/hindhead-commons-and-the-devils-punch-bowl
-Holmwood Common,51.201243,-0.326736,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/holmwood-common
-Hydon's Ball and Heath,51.152508,-0.6014,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/hydons-ball-and-heath
-Leith Hill,51.176899,-0.37276,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/leith-hill
-Limpsfield Common,51.250685,0.042615,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/limpsfield-common
-Oakhurst Cottage,51.132801,-0.62291,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/oakhurst-cottage
-Polesden Lacey,51.261002,-0.36886,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/polesden-lacey
-Reigate Hill and Gatton Park,51.25422,-0.200137,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/reigate-hill-and-gatton-park
-River Wey and Godalming Navigations and Dapdune Wharf,51.2421,-0.57808,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/river-wey-and-godalming-navigations-and-dapdune-wharf
-Shalford Mill,51.2192,-0.56645,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/shalford-mill
-Swan Barn Farm,51.087323,-0.703522,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/swan-barn-farm
-The Homewood,51.356013,-0.381423,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/the-homewood
-Winkworth Arboretum,51.1614,-0.58113,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/winkworth-arboretum
-Witley and Milford Commons,51.155602,-0.66853,Surrey,no,,National Trust,,https://www.nationaltrust.org.uk/visit/surrey/witley-and-milford-commons
-Penmaen and Nicholaston Burrows,51.5718,-4.1204,Swansea,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/penmaen-and-nicholaston-burrows
-"Pennard, Pwll Du and Bishopston Valley",51.5669,-4.0878,Swansea,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/pennard-pwll-du-and-bishopston-valley
-Rhosili and South Gower Coast,51.568525,-4.286882,Swansea,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/rhosili-and-south-gower-coast
-Whiteford and North Gower,51.63,-4.2503,Swansea,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/whiteford-and-north-gower
-Gibside,54.920502,-1.73174,Tyne & Wear,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/gibside
-Penshaw Monument,54.883243,-1.48092,Tyne & Wear,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/penshaw-monument
-Souter Lighthouse and The Leas,54.967999,-1.36124,Tyne & Wear,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/souter-lighthouse-and-the-leas
-Washington Old Hall,54.9028,-1.5165,Tyne & Wear,no,,National Trust,,https://www.nationaltrust.org.uk/visit/north-east/washington-old-hall
-Dyffryn Gardens,51.4439,-3.3029,Vale of Glamorgan,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/dyffryn-gardens
-Lanlay,51.47518,-3.32754,Vale of Glamorgan,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/lanlay-meadows
-Baddesley Clinton,52.343832,-1.708463,Warwickshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/baddesley-clinton
-Charlecote Park,52.205101,-1.62103,Warwickshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/charlecote-park
-Farnborough Hall,52.136902,-1.36541,Warwickshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/farnborough-hall
-Kinwarton Dovecote,52.2232,-1.8495,Warwickshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/kinwarton-dovecote
-Packwood House,52.3465,-1.74551,Warwickshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/packwood-house
-Upton House and Gardens,52.1109,-1.46744,Warwickshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/warwickshire/upton-house-and-gardens
-Birmingham Back to Backs,52.473999,-1.8963,West Midlands,no,,National Trust,,https://www.nationaltrust.org.uk/visit/birmingham-west-midlands/birmingham-back-to-backs
-The Roundhouse,52.478946,-1.918828,West Midlands,no,,National Trust,,https://www.nationaltrust.org.uk/visit/birmingham-west-midlands/roundhouse
-Wightwick Manor and Gardens,52.58214,-2.195,West Midlands,no,,National Trust,,https://www.nationaltrust.org.uk/visit/birmingham-west-midlands/wightwick-manor-and-gardens
-Cissbury Ring,50.86014,-0.37932,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/cissbury-ring
-Devil's Dyke,50.884595,-0.212355,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/devils-dyke
-Drovers Estate,50.911197,-0.757158,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/drovers-estate
-East Head,50.78114,-0.903841,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/east-head
-Kew Wakehurst,51.064999,-0.08934,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/wakehurst
-Lavington Common,50.960133,-0.65032,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/lavington-common
-Nymans,51.05228,-0.199391,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/nymans
-Petworth,50.9945,-0.611426,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/petworth
-Saddlescombe Farm and Newtimber Hill,50.888979,-0.194322,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/saddlescombe-farm-and-newtimber-hill
-Slindon Estate,50.860883,-0.636438,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/slindon-estate
-Standen House and Garden,51.103506,-0.01664,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/standen-house-and-garden
-Uppark House and Garden,50.952702,-0.88896,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/uppark-house-and-garden
-Woolbeding Countryside,51.0271,-0.761295,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/woolbeding-countryside
-Woolbeding Gardens,50.997385,-0.757902,West Sussex,no,,National Trust,,https://www.nationaltrust.org.uk/visit/sussex/woolbeding-gardens
-East Riddlesden Hall,53.873199,-1.87589,West Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall
-Hardcastle Crags,53.758548,-2.01806,West Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/hardcastle-crags
-Marsden Moor,53.601845,-1.93045,West Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/marsden-moor
-Nostell,53.652599,-1.38881,West Yorkshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/yorkshire/nostell
-Avebury,51.427502,-1.85611,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/avebury
-Buscot and Coleshill Estates,51.640444,-1.660634,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-and-coleshill-estates
-Calstone and Cherhill Downs,51.42359,-1.935232,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/calstone-and-cherhill-downs
-Cley Hill,51.20299,-2.232584,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/cley-hill
-Dinton Park and Philipps House,51.0849,-1.98937,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/dinton-park-and-philipps-house
-Figsbury Ring,51.103196,-1.732867,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/figsbury-ring
-Great Chalfield Manor and Garden,51.368198,-2.19942,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/great-chalfield-manor-and-garden
-Heritage and Rural Skills Centre,51.640616,-1.660824,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/heritage-and-rural-skills-centre
-Lacock,51.414799,-2.11941,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/lacock
-Little Clarendon,51.0839,-1.97897,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/little-clarendon
-Lockeridge Dene and Piggledene,51.404998,-1.795089,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/lockeridge-dene-and-piggledene
-Mompesson House,51.06676,-1.79853,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/mompesson-house
-Pepperbox Hill,51.022227,-1.698016,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/pepperbox-hill
-Stonehenge Landscape,51.177601,-1.82776,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/stonehenge-landscape
-Stourhead,51.105323,-2.317704,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/stourhead
-Sutton Lane Meadows,51.497764,-2.078461,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/sutton-lane-meadows
-"The Coombes, Hinton Parva",51.54707,-1.67168,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/the-coombes-hinton-parva
-The Courts Garden,51.354401,-2.20101,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/the-courts-garden
-Westwood Manor,51.329399,-2.27024,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/westwood-manor
-White Barrow,51.220798,-1.9543,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/white-barrow
-Win Green,50.985132,-2.108106,Wiltshire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wiltshire/win-green
-Bredon Barn,52.030201,-2.11954,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bredon-barn
-Clent Hills,52.424823,-2.092195,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/clent-hills
-Croome,52.105154,-2.166272,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome
-Greyfriars House and Garden,52.190455,-2.21898,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/greyfriars-house-and-garden
-Hanbury Hall,52.275398,-2.08633,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/hanbury-hall
-Hawford Dovecote,52.242401,-2.22556,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/hawford-dovecote
-Knowles Mill,52.386007,-2.351114,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/knowles-mill
-Middle Littleton Tithe Barn,52.1213,-1.88429,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/middle-littleton-tithe-barn
-Rosedene,52.354698,-2.10304,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/rosedene
-The Firs,52.198983,-2.283497,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-firs
-The Fleece Inn,52.090099,-1.86567,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-fleece-inn
-Wichenford Dovecote,52.236801,-2.31302,Worcestershire,no,,National Trust,,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/wichenford-dovecote
-Chirk Castle and Garden,52.935902,-3.08353,Wrexham,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/chirk-castle
-Erddig Hall and Garden,53.027302,-3.00296,Wrexham,no,,National Trust,,https://www.nationaltrust.org.uk/visit/wales/erddig
+Title,Latitude,Longitude,County,Visited,Date,HeritageGroup,Link,Note
+Abereiddi to Abermawr,51.93824,-5.207767,,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/abereiddi-to-abermawr,
+Alfred's Tower,51.114861,-2.365026,,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/alfreds-tower,
+Castlefield Viaduct,53.475178,-2.254759,,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/castlefield-viaduct,
+Coughton Court,52.243939,-1.879281,,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/coughton-court,
+Coventry Charterhouse,52.40119,-1.4948,,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/coventry-charterhouse,
+Cregennan,52.709828,-3.988609,,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/cregennan,
+Cwmtydu to New Quay,52.191394,-4.406872,,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/cwmtydu-to-new-quay,
+Dunham Massey,53.3832,-2.4045,,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/dunham-massey,
+Hafod y Bwch Commemorative Woodland,53.011913,-3.025094,,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/hafod-y-bwch-commemorative-woodland,
+Harting Down,50.95656,-0.875635,,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/harting-down,
+Holcombe Moor and Stubbins Estate,53.663547,-2.355444,,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/holcombe-moor-and-stubbins-estate,
+Marley Common,51.073106,-0.735607,,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/marley-common,
+Mendip Hills,51.296276,-2.721176,,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/mendip-hills,
+Munstead Wood,51.175704,-0.596164,,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/munstead-wood,
+Mwnt,52.1354,-4.64063,,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/mwnt,
+Ray Island,51.794601,0.906963,,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/ray-island,
+Tredegar House,51.561601,-3.028106,,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/tredegar-house,
+Cemaes to Llanbadrig,53.415269,-4.446692,Anglesey,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/cemaes-to-llanbadrig,
+Cemlyn,53.412223,-4.515411,Anglesey,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/cemlyn,
+Plas Newydd House and Garden,53.202599,-4.21541,Anglesey,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/plas-newydd-house-and-garden,
+Porth Dafarch,53.287687,-4.650223,Anglesey,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/porth-dafarch,
+Bath Skyline,51.380882,-2.345693,Bath and NE Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/bath-skyline,
+Bathampton Meadows,51.402102,-2.32078,Bath and NE Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/bathampton-meadows,
+Dunstable Downs and Whipsnade Estate,51.865538,-0.537432,Bedfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/dunstable-downs-and-whipsnade-estate,
+Moleskin and Markham Hills,51.94473,-0.44615,Bedfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/moleskin-and-markham-hills,
+Sharpenhoe and Sundon Hills,51.95354,-0.450765,Bedfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/sharpenhoe,
+Whipsnade Tree Cathedral,51.851636,-0.535889,Bedfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/whipsnade-tree-cathedral,
+Willington Dovecote and Stables,52.137501,-0.3808,Bedfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/willington-dovecote-and-stables,
+Ashdown,51.535999,-1.59116,Berkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/ashdown,
+Basildon Park,51.4995,-1.11858,Berkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/basildon-park,
+Maidenhead and Cookham Commons,51.559538,-0.714663,Berkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/maidenhead-and-cookham-commons,
+Runnymede and Ankerwycke,51.44853,-0.56773,Berkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/runnymede-and-ankerwycke,
+Simon's Wood and Finchampstead Ridges,51.364469,-0.843989,Berkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/simons-wood-and-finchampstead-ridges,
+Blaise Hamlet,51.5061,-2.63912,Bristol,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/blaise-hamlet,
+Leigh Woods,51.454221,-2.641826,Bristol,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/leigh-woods,
+Ascott,51.902019,-0.700372,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/ascott,
+Boarstall Duck Decoy,51.828999,-1.09014,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/boarstall-duck-decoy,
+Boarstall Tower,51.821301,-1.09333,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/boarstall-tower,
+Bradenham,51.66559,-0.80431,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/bradenham,
+Buckingham Chantry Chapel,52.000999,-0.98665,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buckingham-chantry-chapel,
+Chilterns Countryside,51.751671,-0.771511,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/chilterns-countryside,
+Claydon,51.924599,-0.95617,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/claydon-house,
+Cliveden,51.556596,-0.681394,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/cliveden,
+Coombe Hill,51.74824,-0.76762,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/coombe-hill,
+Dorneywood Garden,51.5546,-0.64688,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/dorneywood-garden,
+Hughenden,51.650214,-0.756555,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/hughenden,
+King's Head,51.816472,-0.813592,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/kings-head,
+Long Crendon Courthouse,51.775002,-0.98567,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/long-crendon-courthouse,
+Pitstone Windmill,51.831402,-0.62699,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/pitstone-windmill,
+Stowe Gardens,52.022154,-1.00785,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/stowe-gardens,
+Waddesdon,51.845406,-0.925868,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/waddesdon-manor,
+Watlington Hill,51.63636,-0.97569,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/watlington-hill,
+"West Wycombe Park, Village and Hill",51.641701,-0.80065,Buckinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/west-wycombe-park-village-and-hill,
+"Anglesey Abbey, Gardens and Lode Mill",52.235915,0.2448,Cambridgeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cambridgeshire/anglesey-abbey-gardens-and-lode-mill,
+Houghton Mill and Waterclose Meadows,52.3311,-0.1204,Cambridgeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cambridgeshire/houghton-mill-and-waterclose-meadows,
+Peckover House and Garden,52.665487,0.154538,Cambridgeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cambridgeshire/peckover-house-and-garden,
+Ramsey Abbey Gatehouse,52.448502,-0.0997,Cambridgeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cambridgeshire/ramsey-abbey-gatehouse,
+Wicken Fen National Nature Reserve,52.3101,0.29291,Cambridgeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cambridgeshire/wicken-fen-national-nature-reserve,
+Wimpole Estate,52.140004,-0.048846,Cambridgeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cambridgeshire/wimpole-estate,
+Dinefwr,51.882099,-4.01424,Carmarthenshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/dinefwr,
+Dolaucothi,52.0443,-3.94824,Carmarthenshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/dolaucothi,
+Hafod Estate,52.347167,-3.809934,Ceredigion,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/hafod-estate,
+Llanerchaeron,52.218201,-4.22546,Ceredigion,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/llanerchaeron,
+Penbryn,52.139237,-4.491561,Ceredigion,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/penbryn,
+Alderley Edge and Cheshire Countryside,53.296501,-2.21235,Cheshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/alderley-edge-and-cheshire-countryside,
+Hare Hill,53.28368,-2.188858,Cheshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/hare-hill,
+Little Moreton Hall,53.126499,-2.24874,Cheshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/little-moreton-hall,
+Lyme,53.337002,-2.05322,Cheshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/lyme,
+Nether Alderley Mill,53.281101,-2.23655,Cheshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/nether-alderley-mill,
+Quarry Bank,53.345158,-2.240885,Cheshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/quarry-bank,
+Tatton Park,53.327599,-2.37039,Cheshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/cheshire-greater-manchester/tatton-park,
+Aberconwy House,53.28157,-3.82847,Conwy,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/aberconwy-house,
+Bodnant Garden,53.236099,-3.79996,Conwy,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/bodnant-garden,
+Conwy Suspension Bridge,53.281128,-3.828009,Conwy,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/conwy-suspension-bridge,
+Great Orme,53.332401,-3.855484,Conwy,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/great-orme,
+Tŷ Mawr Wybrnant,53.052502,-3.83218,Conwy,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/ty-mawr-wybrnant,
+Ysbyty Ifan,53.023045,-3.726415,Conwy,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/ysbyty-ifan,
+Antony,50.3848,-4.22563,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/antony,
+Boscastle,50.690528,-4.694683,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/boscastle,
+Bosveal,50.107933,-5.113446,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/bosveal,
+Botallack,50.140729,-5.689126,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/botallack,
+Cadsonbury,50.482736,-4.336397,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/cadsonbury,
+Cape Cornwall,50.127187,-5.708801,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/cape-cornwall,
+Carne and Pendower,50.207385,-4.937177,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/carne-and-pendower,
+Carnewas at Bedruthan,50.481323,-5.032061,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/carnewas-at-bedruthan,
+Chapel Porth,50.300003,-5.234277,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/chapel-porth,
+Cotehele,50.494301,-4.22487,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/cotehele,
+Cotehele Mill,50.492164,-4.233089,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/cotehele-mill,
+Crantock Beach,50.407092,-5.113636,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/crantock-beach,
+Duckpool,50.87657,-4.557695,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/duckpool,
+East Pool Mine,50.231016,-5.262162,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/east-pool-mine,
+Fowey Estuary,50.328865,-4.642749,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/fowey-estuary,
+Glendurgan Garden,50.10914,-5.116531,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/glendurgan-garden,
+Godolphin,50.1367,-5.36116,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/godolphin,
+Godrevy,50.238321,-5.393736,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/godrevy,
+Gunwalloe,50.041934,-5.270181,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/gunwalloe,
+Holywell,50.385996,-5.142497,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/holywell,
+Kynance Cove,49.97421,-5.225112,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/kynance-cove,
+Lanhydrock,50.450248,-4.694002,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/lanhydrock,
+Lansallos,50.33766,-4.568163,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/lansallos,
+Lantic Bay,50.333005,-4.601389,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/lantic-bay,
+Lantivet Bay,50.336196,-4.590936,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/lantivet-bay,
+Lawrence House,50.638307,-4.362308,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/lawrence-house,
+Levant Mine and Beam Engine,50.151983,-5.685585,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/levant-mine-and-beam-engine,
+Lizard Point,49.961129,-5.204415,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/lizard-point,
+Morwenstow,50.908706,-4.553768,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/morwenstow,
+Mullion Cove,50.015386,-5.257529,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/mullion-cove,
+Northcott Mouth,50.847404,-4.553248,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/northcott-mouth,
+Penrose,50.085971,-5.302186,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/penrose,
+Pentire,50.581861,-4.905772,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/pentire,
+Poldhu Cove,50.03426,-5.259308,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/poldhu-cove,
+Port Quin,50.588931,-4.866948,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/port-quin,
+Porth,50.157783,-4.986733,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/porth,
+Porthcurno,50.0473,-5.6558,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/porthcurno,
+Sandymouth,50.861586,-4.553875,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/sandymouth,
+St Agnes Head,50.31736,-5.232223,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/st-agnes-head,
+St Anthony Head,50.141698,-5.014538,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/st-anthony-head,
+St Michael's Mount,50.118099,-5.47565,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/st-michaels-mount,
+The Dodman,50.21985,-4.803553,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/the-dodman,
+Tintagel Old Post Office,50.663371,-4.751645,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/tintagel-old-post-office,
+Trelissick,50.217241,-5.033782,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/trelissick,
+Trengwainton Garden,50.127899,-5.5695,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/trengwainton-garden,
+Trerice,50.38661,-5.03809,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/trerice,
+Trevithick Cottage,50.2029,-5.3122,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/trevithick-cottage,
+Trevose Head,50.546834,-5.034124,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/trevose-head,
+Wheal Coates,50.306226,-5.231574,Cornwall,no,,National Trust,https://www.nationaltrust.org.uk/visit/cornwall/wheal-coates,
+Carrick-a-Rede,55.236698,-6.3328,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/carrick-a-rede,
+Cushendun,55.12805,-6.04349,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/cushendun,
+Divis and the Black Mountain,54.60074,-6.041651,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/divis-and-the-black-mountain,
+Giant's Causeway,55.240807,-6.511572,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway,
+Glenoe,54.799617,-5.832079,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/glenoe,
+Islandmagee,54.847016,-5.727229,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/islandmagee,
+Patterson's Spade Mill,54.700777,-6.043718,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/pattersons-spade-mill,
+Templetown Mausoleum,54.706,-6.095,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/templetown-mausoleum,
+The Crown Bar,54.5947,-5.9342,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/the-crown-bar,
+White Park Bay,55.2289,-6.40669,County Antrim,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/white-park-bay,
+Ardress House,54.445535,-6.591778,County Armagh,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/ardress-house,
+Derrymore House,54.189943,-6.38358,County Armagh,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/derrymore-house,
+The Argory,54.464905,-6.657732,County Armagh,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/the-argory,
+Castle Ward,54.368301,-5.58034,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/castle-ward,
+Lisnabreeny and Cregagh Glen,54.561886,-5.888972,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/lisnabreeny-and-cregagh-glen,
+Minnowburn,54.548434,-5.952616,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/minnowburn,
+Mount Stewart,54.551498,-5.60127,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/mount-stewart,
+Murlough National Nature Reserve,54.234,-5.8636,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/murlough-national-nature-reserve,
+Rowallane Garden,54.447102,-5.82684,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/rowallane-garden,
+Strangford Lough,54.373741,-5.579002,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/strangford-lough,
+The Mournes,54.171137,-6.083736,County Down,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/the-mournes,
+Durham Coast,54.823619,-1.322313,County Durham,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/durham-coast,
+Castle Coole,54.336184,-7.624401,County Fermanagh,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/castle-coole,
+Crom,54.162601,-7.44284,County Fermanagh,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/crom,
+Florence Court,54.258301,-7.72989,County Fermanagh,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/florence-court,
+Mussenden Temple and Downhill Demesne,55.16789,-6.81085,County Londonderry,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/mussenden-temple-and-downhill-demesne,
+Portstewart Strand,55.172117,-6.724648,County Londonderry,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/portstewart-strand,
+Springhill,54.68729,-6.657566,County Londonderry,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/springhill,
+Gray's Printing Press,54.82549,-7.463395,County Tyrone,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/grays-printing-press,
+Wellbrook Beetling Mill,54.655052,-6.839538,County Tyrone,no,,National Trust,https://www.nationaltrust.org.uk/visit/northern-ireland/wellbrook-beetling-mill,
+Acorn Bank,54.646301,-2.59228,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/acorn-bank,
+Aira Force and Gowbarrow Park,54.5751,-2.92949,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/aira-force-and-gowbarrow-park,
+Allan Bank and Grasmere,54.460536,-3.029754,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/allan-bank-and-grasmere,
+Arnside and Silverdale,54.189403,-2.844373,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/arnside-and-silverdale,
+Borrowdale and Derwent Water,54.58304,-3.12789,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/borrowdale-and-derwent-water,
+Buttermere Valley,54.51402,-3.27848,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/buttermere-valley,
+Claife Viewing Station and Windermere West Shore,54.351458,-2.942319,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/claife-viewing-station-and-windermere-west-shore,
+Dalton Castle,54.153801,-3.18896,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/dalton-castle,
+Ennerdale,54.524792,-3.414473,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/ennerdale,
+Eskdale and Duddon Valley,54.39935,-3.26743,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/eskdale-and-duddon-valley,
+Fell Foot,54.27402,-2.952607,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/fell-foot,
+Hill Top and Hawkshead,54.351101,-2.97054,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/hill-top,
+Historic Steam Yacht Gondola,54.363899,-3.06483,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/steam-yacht-gondola,
+Keld Chapel,54.523859,-2.691178,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/keld-chapel,
+Sandscale Haws National Nature Reserve,54.170756,-3.225736,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/sandscale-haws-national-nature-reserve,
+Sizergh,54.284168,-2.771612,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/sizergh,
+Stagshaw Garden and Ambleside,54.417745,-2.956934,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/stagshaw-garden-and-ambleside,
+Tabitha Twitchit's Bookshop,54.373798,-2.99525,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/beatrix-potter-gallery-and-hawkshead,
+Tarn Hows and Coniston,54.387268,-3.038192,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/tarn-hows-and-coniston,
+The Langdales,54.44897,-3.090295,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/the-langdales,
+Townend,54.412498,-2.91477,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/townend,
+Wasdale,54.45607,-3.26293,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/wasdale,
+Whitehaven Coast,54.543763,-3.598891,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/whitehaven-coast,
+Windermere and Footprint,54.389002,-2.911795,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/windermere-and-footprint,
+Wordsworth House and Garden,54.663601,-3.36678,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/wordsworth-house-and-garden,
+Wray,54.400611,-2.964237,Cumbria,no,,National Trust,https://www.nationaltrust.org.uk/visit/lake-district/wray,
+Graig Fawr,53.308753,-3.408942,Denbighshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/graig-fawr,
+Calke Abbey,52.808253,-1.472834,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/calke-abbey,
+Duffield Castle,52.9925,-1.4892,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/duffield-castle,
+Foremark,52.8209,-1.5062,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/foremark,
+Hardwick,53.167801,-1.30813,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/hardwick,
+Hardwick Estate: Stainsby Mill,53.183275,-1.31952,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/hardwick-estate-stainsby-mill,
+Kedleston Hall,52.9585,-1.53348,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/kedleston-hall,
+"Kinder, Edale and the High Peak",53.3458,-1.8156,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/kinder-edale-and-the-high-peak,
+"Longshaw, Burbage and the Eastern Moors",53.316263,-1.600686,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/longshaw-burbage-and-the-eastern-moors,
+Staunton Harold,52.81089,-1.43062,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/staunton-harold,
+The Children’s Country House at Sudbury,52.886299,-1.76674,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/the-childrens-country-house-at-sudbury,
+The Old Manor,52.978401,-1.81594,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/the-old-manor,
+Winster Market House,53.14169,-1.639948,Derbyshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/winster-market-house,
+A la Ronde,50.641718,-3.408798,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/a-la-ronde,
+Arlington Court and the National Trust Carriage Museum,51.145699,-3.98588,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/arlington-court-and-the-national-trust-carriage-museum,
+Ashclyst Forest,50.787567,-3.421156,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/ashclyst-forest,
+Baggy Point,51.136017,-4.245381,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/baggy-point,
+Bideford Bay and Hartland,51.013201,-4.443378,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/bideford-bay-and-hartland,
+Bradley,50.5256,-3.62486,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/bradley,
+Branscombe,50.6922,-3.13646,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/branscombe,
+Buckland Abbey,50.48139,-4.13374,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/buckland-abbey,
+Cadover Bridge,50.463626,-4.036676,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/cadover-bridge,
+Castle Drogo,50.697851,-3.806239,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/castle-drogo,
+Clyston Mill,50.76573,-3.447534,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/clyston-mill,
+Coleton Fishacre,50.345299,-3.53439,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/coleton-fishacre,
+Compton Castle,50.472198,-3.59649,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/compton-castle,
+Dartmouth and Kingswear Countryside,50.33256,-3.569913,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/dartmouth-and-kingswear-countryside,
+Dunsland,50.825348,-4.258894,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/dunsland,
+Finch Foundry,50.730202,-3.92589,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/finch-foundry,
+Fingle Bridge,50.695276,-3.780949,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/fingle-bridge,
+Greenway,50.382401,-3.5872,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/greenway,
+Heddon Valley,51.215599,-3.92621,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/heddon-valley,
+Killerton,50.792,-3.4565,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/killerton,
+Knightshayes,50.920777,-3.485064,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/knightshayes,
+Lorna Doone Valley,51.216183,-3.728033,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/lorna-doone-valley,
+Loughwood Meeting House,50.788428,-3.061108,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/loughwood-meeting-house,
+Lundy,51.1735,-4.67047,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/lundy,
+Lydford Gorge,50.640698,-4.110355,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/lydford-gorge,
+Mortehoe,51.187373,-4.198934,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/mortehoe,
+Overbeck's Garden,50.2202,-3.78489,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/overbecks-garden,
+Parke,50.594692,-3.689277,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/parke,
+Plymbridge Woods,50.4089,-4.0786,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/plymbridge-woods,
+Salcombe Countryside,50.229199,-3.81011,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/salcombe-countryside,
+Saltram,50.3815,-4.08548,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/saltram,
+Shaugh Bridge,50.453951,-4.06731,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/shaugh-bridge,
+Shute Barton,50.7714,-3.05677,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/shute-barton,
+Sidmouth countryside,50.693485,-3.207616,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/sidmouth-countryside,
+South Milton Sands,50.259597,-3.857038,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/south-milton-sands,
+Watersmeet,51.2211,-3.79444,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/watersmeet,
+Wembury,50.316836,-4.084386,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/wembury,
+Woolacombe,51.178733,-4.167389,Devon,no,,National Trust,https://www.nationaltrust.org.uk/visit/devon/woolacombe,
+Badbury Rings,50.827095,-2.058211,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/badbury-rings,
+Brownsea Island,50.6884,-1.95622,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/brownsea-island,
+Cerne Giant,50.812979,-2.475441,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/cerne-giant,
+Clouds Hill,50.717878,-2.251675,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/clouds-hill,
+Corfe Castle,50.64013,-2.0588,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/corfe-castle,
+Eggardon Hill,50.748316,-2.644877,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/eggardon-hill,
+Fontmell and Melbury Downs,50.967604,-2.163719,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/fontmell-and-melbury-downs,
+Golden Cap,50.73693,-2.874292,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/golden-cap,
+Hambledon Hill,50.911692,-2.22182,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/hambledon-hill,
+Hardy Monument,50.686199,-2.54871,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/hardy-monument,
+Hardy's Cottage,50.731308,-2.386136,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/hardys-cottage,
+"Hardy's House, Max Gate",50.707901,-2.419803,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/hardys-house-max-gate,
+Hive Beach,50.696606,-2.722042,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/hive-beach,
+Hod Hill,50.875819,-2.203193,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/hod-hill,
+Kingston Lacy,50.81696,-2.030503,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/kingston-lacy,
+Lambert's and Coney's Castle,50.78438,-2.902129,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/lamberts-and-coneys-castle,
+Lewesdon Hill,50.807833,-2.799555,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/lewesdon-hill,
+Pilsdon Pen,50.8,-2.833333,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/pilsdon-pen,
+Ringstead Bay,50.630861,-2.35342,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/ringstead-bay,
+Spyway,50.6065,-2.005599,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/spyway,
+Studland Bay,50.651732,-1.953806,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/studland-bay,
+White Mill,50.805087,-2.061035,Dorset,no,,National Trust,https://www.nationaltrust.org.uk/visit/dorset/white-mill,
+Crook Hall Gardens,54.782583,-1.575158,Durham,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/crook-hall-gardens,
+Alfriston Clergy House,50.80616,0.15777,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/alfriston-clergy-house,
+Bateman's,50.987701,0.37695,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/batemans,
+Birling Gap and the Seven Sisters,50.742905,0.201166,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/birling-gap-and-the-seven-sisters,
+Blackcap,50.895237,-0.04667,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/blackcap,
+Bodiam Castle,51.000099,0.54741,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/bodiam-castle,
+Cuckmere Valley,50.78974,0.139652,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/cuckmere-valley,
+Ditchling Beacon,50.90084,-0.105186,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/ditchling-beacon,
+Lamb House,50.949699,0.73426,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/lamb-house,
+Monk's House,50.8396,0.01917,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/monks-house,
+Sheffield Park and Garden,51,0.0094,East Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/sheffield-park-and-garden,
+Maister House,53.743301,-0.32944,East Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/maister-house,
+Bourne Mill,51.875999,0.91378,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/bourne-mill,
+Copt Hall Marshes,51.795619,0.869801,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/copt-hall-marshes,
+Danbury Commons and Blakes Wood,51.710061,0.576404,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/danbury-commons-and-blakes-wood,
+Eastbury Manor House,51.534894,0.099462,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/eastbury-manor-house,
+Grange Barn,51.869099,0.68332,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/grange-barn,
+Hatfield Forest,51.8592,0.2363,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/hatfield-forest,
+Northey Island,51.718012,0.702822,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/northey-island,
+Paycocke's House and Garden,51.87075,0.68338,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/paycockes-house-and-garden,
+Rayleigh Mount,51.587898,0.60605,Essex,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/rayleigh-mount,
+Ashleworth Tithe Barn,51.924198,-2.26572,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/ashleworth-tithe-barn,
+Bibury,51.759018,-1.833845,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bibury,
+Chedworth Roman Villa,51.819401,-1.92295,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/chedworth-roman-villa,
+Crickley Hill,51.847053,-2.103022,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/crickley-hill,
+Dover's Hill,52.053722,-1.803076,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/dovers-hill,
+Hailes Abbey,51.9702,-1.92724,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/hailes-abbey,
+Haresfield Beacon and Standish Wood,51.7784,-2.26233,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/haresfield-beacon-and-standish-wood,
+Hidcote,52.084,-1.74364,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/hidcote,
+Lodge Park and Sherborne Park Estate,51.8069,-1.79225,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/lodge-park-and-sherborne-park-estate,
+Market Hall,52.050686,-1.780686,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/market-hall,
+May Hill,51.888107,-2.443118,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/may-hill,
+Minchinhampton and Rodborough Commons,51.707547,-2.211243,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/minchinhampton-and-rodborough-commons,
+Newark Park,51.638802,-2.31369,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/newark-park,
+Snowshill Manor and Garden,52.006093,-1.861509,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/snowshill-manor-and-garden,
+Westbury Court Garden,51.822172,-2.410684,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/westbury-court-garden,
+Woodchester Park,51.70473,-2.271464,Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/woodchester-park,
+Carneddau and Glyderau,53.123603,-4.020383,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/carneddau-and-glyderau,
+Craflwyn and Beddgelert,53.019931,-4.088592,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/craflwyn-and-beddgelert,
+Dinas Dinlle,53.084117,-4.335902,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/dinas-dinlle,
+Glan Faenol,53.204951,-4.196569,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/glan-faenol,
+Llanbedrog beach,52.857872,-4.484416,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/llanbedrog-beach,
+Morfa and Nant Bach,52.99772,-4.421594,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/morfa-and-nant-bach,
+Mynydd Mawr and Braich y Pwll,52.798201,-4.760568,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/mynydd-mawr-and-braich-y-pwll,
+Ogwen Cottage,53.123328,-4.018443,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/ogwen-cottage,
+Penrhyn Castle and Garden,53.217338,-4.101378,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/penrhyn-castle-and-garden,
+Pistyll,52.951053,-4.487515,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/pistyll,
+Plas yn Rhiw,52.823399,-4.616,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/plas-yn-rhiw,
+Porth Meudwy,52.795836,-4.724733,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/porth-meudwy,
+Porth y Swnt,52.804818,-4.711694,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/porth-y-swnt,
+Porthdinllaen,52.942939,-4.567633,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/porthdinllaen,
+Porthor,52.832284,-4.723574,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/porthor,
+South Eryri (Snowdonia),52.80119,-3.88969,Gwynedd,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/south-snowdonia,
+Curbridge Nature Reserve,50.895322,-1.26269,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/curbridge-nature-reserve,
+Foxbury,50.957814,-1.575196,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/foxbury,
+Hinton Ampner,51.044591,-1.151521,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/hinton-ampner,
+Ludshott Commons,51.1084,-0.77936,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/ludshott-commons,
+Mottisfont,51.040011,-1.533176,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/mottisfont,
+New Forest Northern Commons,50.873754,-1.767906,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/new-forest-northern-commons,
+Sandham Memorial Chapel,51.344799,-1.33691,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/sandham-memorial-chapel,
+Selborne Common,51.096107,-0.951764,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/selborne-common,
+Stockbridge Down,51.115549,-1.456755,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/stockbridge-down,
+Stockbridge Marsh,51.105655,-1.495436,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/stockbridge-marsh,
+The Chase,51.364727,-1.367188,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/the-chase,
+The Vyne,51.313783,-1.08401,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/the-vyne,
+West Green House Garden,51.300978,-0.931629,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/west-green-house-garden,
+Winchester City Mill,51.062,-1.30771,Hampshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/hampshire/winchester-city-mill,
+Berrington Hall,52.269501,-2.71427,Herefordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/berrington-hall,
+Brockhampton,52.1991,-2.4569,Herefordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/brockhampton,
+Croft Castle and Parkland,52.284199,-2.79835,Herefordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croft-castle-and-parkland,
+Herefordshire Countryside,52.0353,-2.3505,Herefordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/herefordshire-countryside,
+The Weir Garden,52.072899,-2.82203,Herefordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-weir-garden,
+Ashridge Estate,51.805599,-0.58542,Hertfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/ashridge-estate,
+Morven Park,51.700131,-0.174226,Hertfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/morven-park,
+Shaw's Corner,51.836215,-0.26844,Hertfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/essex-bedfordshire-hertfordshire/shaws-corner,
+Bembridge Windmill,50.684213,-1.094381,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/bembridge-windmill,
+Bembridge and Culver Downs,50.671156,-1.11801,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/bembridge-and-culver-downs,
+Borthwood Copse,50.656034,-1.199914,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/borthwood-copse,
+Chillerton Down,50.64444,-1.32073,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/chillerton-down,
+Compton Bay and Downs,50.655106,-1.466488,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/compton-bay-and-downs,
+Mottistone Gardens and Estate,50.652447,-1.4284,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/mottistone-gardens-and-estate,
+Newtown National Nature Reserve and Old Town Hall,50.713617,-1.401415,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/newtown-national-nature-reserve-and-old-town-hall,
+St Catherine's Down and Knowles Farm,50.58043,-1.302837,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/st-catherines-down-and-knowles-farm,
+St Helens Duver,50.698751,-1.099596,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/st-helens-duver,
+The Needles Headland and Tennyson Down,50.668967,-1.542082,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/the-needles-headland-and-tennyson-down,
+The Needles Old Battery and New Battery,50.666543,-1.565839,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/the-needles-old-battery-and-new-battery,
+Ventnor Downs,50.603989,-1.197933,Isle of Wight,no,,National Trust,https://www.nationaltrust.org.uk/visit/isle-of-wight/ventnor-downs,
+Chartwell,51.2459,0.083513,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/chartwell,
+Chiddingstone Village,51.185947,0.14645,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/chiddingstone-village,
+Cobham Wood and Mausoleum,51.38846,0.433238,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/cobham-wood-and-mausoleum,
+Coldrum Long Barrow,51.32197,0.36661,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/coldrum-long-barrow,
+Emmetts Garden,51.250599,0.11573,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/emmetts-garden,
+Ightham Mote,51.258598,0.27088,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/ightham-mote,
+Knole,51.267601,0.20122,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/knole,
+Old Soar Manor,51.263076,0.319997,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/old-soar-manor,
+Oldbury Hill,51.2788,0.26221,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/oldbury-hill,
+One Tree Hill,51.256654,0.232781,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/one-tree-hill,
+Owletts,51.39313,0.391894,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/owletts,
+Petts Wood and Hawkwood,51.398808,0.082993,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/petts-wood-and-hawkwood,
+Quebec House,51.268002,0.07833,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/quebec-house,
+Scotney Castle,51.092783,0.408198,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/scotney-castle,
+Sissinghurst Castle Garden,51.11576,0.58287,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/sissinghurst-castle-garden,
+Smallhythe Place,51.0383,0.70182,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/smallhythe-place,
+South Foreland Lighthouse,51.13152,1.338825,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/south-foreland-lighthouse,
+St. John's Jerusalem,51.4095,0.24053,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/st-johns-jerusalem,
+Stoneacre,51.2533,0.58178,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/stoneacre,
+The Royal Oak Foundation Conservation Studio,51.26717,0.19741,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/the-royal-oak-foundation-conservation-studio,
+The White Cliffs of Dover,51.132046,1.337537,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover,
+Toys Hill,51.248285,0.101976,Kent,no,,National Trust,https://www.nationaltrust.org.uk/visit/kent/toys-hill,
+Gawthorpe Hall,53.803799,-2.29093,Lancashire,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/gawthorpe-hall,
+Heysham Coast,54.046973,-2.902574,Lancashire,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/heysham-coast,
+Rufford Old Hall,53.63775,-2.81365,Lancashire,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/rufford-old-hall,
+Staunton Harold Church,52.783401,-1.43658,Leicestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/staunton-harold-church,
+Stoneywell,52.703427,-1.270649,Leicestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/stoneywell,
+Ulverscroft Nature Reserve,52.701401,-1.27259,Leicestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/ulverscroft-nature-reserve,
+Belton Estate,52.94313,-0.62015,Lincolnshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/belton-estate,
+Grantham House,52.914799,-0.63818,Lincolnshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/grantham-house,
+"Gunby Estate, Hall and Gardens",53.178001,0.19669,Lincolnshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/gunby-estate-hall-and-gardens,
+Gunby Estate: Monksthorpe Chapel,53.164902,0.16874,Lincolnshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/gunby-hall-estate-monksthorpe-chapel,
+Sandilands,53.298127,0.294369,Lincolnshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/sandilands,
+Tattershall Castle,53.101002,-0.19063,Lincolnshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/tattershall-castle,
+Woolsthorpe Manor,52.80876,-0.62985,Lincolnshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/woolsthorpe-manor,
+Formby,53.563,-3.09217,Liverpool,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/formby,
+Speke Hall,53.336498,-2.87353,Liverpool,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/speke-hall,
+The Beatles' Childhood Homes,53.376751,-2.880458,Liverpool,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/the-beatles-childhood-homes,
+2 Willow Road,51.557499,-0.16861,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/2-willow-road,
+575 Wandsworth Road,51.46979,-0.140628,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/575-wandsworth-road,
+Fenton House and Garden,51.558773,-0.180926,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/fenton-house-and-garden,
+George Inn,51.503799,-0.08904,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/george-inn,
+Morden Hall Park,51.400611,-0.188722,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/morden-hall-park,
+Rainham Hall,51.521696,0.193162,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/rainham-hall,
+Red House,51.455623,0.130255,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/red-house,
+Sutton House and Breaker's Yard,51.548,-0.04921,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/sutton-house-and-breakers-yard,
+The Carlyles' House,51.484326,-0.170021,London,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/the-carlyles-house,
+The Hardmans' House,53.399843,-2.973728,Merseyside,no,,National Trust,https://www.nationaltrust.org.uk/visit/liverpool-lancashire/the-hardmans-house,
+Osterley Park and House,51.489498,-0.35289,Middlesex,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/osterley-park-and-house,
+Skenfrith Castle,51.8778,-2.78942,Monmouthshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/skenfrith-castle,
+Sugar Loaf and Usk Valley,51.844095,-3.062519,Monmouthshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/sugar-loaf-skirrid-and-usk-valley,
+The Kymin,51.809101,-2.68323,Monmouthshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/the-kymin,
+Aberdulais,51.680698,-3.77791,Neath Port Talbot,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/aberdulais,
+Blakeney National Nature Reserve,52.956365,1.017881,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/blakeney-national-nature-reserve,
+Blickling Estate,52.812,1.23139,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/blickling-estate,
+Brancaster Estate,52.9669,0.66877,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/brancaster-estate,
+Darrow Wood,52.455557,1.332216,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/darrow-wood,
+Elizabethan House Museum,52.605,1.72721,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/elizabethan-house-museum,
+"Felbrigg Hall, Gardens and Estate",52.907469,1.259425,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/felbrigg-hall-gardens-and-estate,
+Horsey Windpump,52.74247,1.638635,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/horsey-windpump,
+Morston Quay,52.957811,0.985896,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/morston-quay,
+Oxburgh Estate,52.581215,0.570269,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/oxburgh-estate,
+Sheringham Park,52.924079,1.181416,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/sheringham-park,
+St George's Guildhall,52.755553,0.393518,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/st-georges-guildhall,
+The Textile Conservation Studio,52.80089,1.191523,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/the-textile-conservation-studio,
+West Runton and Beeston Regis Heath,52.92557,1.247689,Norfolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/norfolk/west-runton-and-beeston-regis-heath,
+Cadbury Camp,51.4479,-2.78711,North Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/cadbury-camp,
+Clevedon Court,51.439657,-2.831597,North Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/clevedon-court,
+Tyntesfield,51.4485,-2.71889,North Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/tyntesfield,
+Beningbrough,54.022099,-1.21315,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/beningbrough,
+Braithwaite Hall,54.2668,-1.81933,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/braithwaite-hall,
+"Bridestones, Crosscliff and Blakey Topping",54.302502,-0.66015,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/bridestones-crosscliff-and-blakey-topping,
+Brimham Rocks,54.081699,-1.67613,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/brimham-rocks,
+Fountains Abbey and Studley Royal Water Garden,54.1096,-1.58033,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/fountains-abbey-and-studley-royal-water-garden,
+Goddards,53.940102,-1.10261,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/goddards,
+"Mount Grace Priory, House and Gardens",54.380402,-1.30984,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/mount-grace-priory,
+Nunnington Hall,54.204601,-0.97233,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/nunnington-hall,
+Ormesby Hall,54.5432,-1.1829,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/ormesby-hall,
+Rievaulx Terrace,54.253899,-1.11556,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/rievaulx-terrace,
+Roseberry Topping,54.5056,-1.10471,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/roseberry-topping,
+"Treasurer's House, York",53.962764,-1.080973,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/treasurers-house-york,
+Yorkshire Coast,54.400398,-0.48725,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/yorkshire-coast,
+Yorkshire Dales,54.104698,-2.17682,North Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/yorkshire-dales,
+Canons Ashby,52.149502,-1.16034,Northamptonshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/canons-ashby,
+Lyveden,52.4623,-0.5582,Northamptonshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/lyveden,
+"Priest's House, Easton on the Hill",52.629364,-0.509512,Northamptonshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/leicestershire-northamptonshire/priests-house-easton-on-the-hill,
+Allen Banks and Staward Gorge,54.9709,-2.31704,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/allen-banks-and-staward-gorge,
+Cherryburn,54.957001,-1.88361,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/cherryburn,
+Cragside,55.312599,-1.8817,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/cragside,
+Dunstanburgh Castle,55.4911,-1.59632,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/dunstanburgh-castle,
+Embleton and Newton Links,55.512768,-1.618353,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/embleton-and-newton-links,
+Farne Islands,55.616001,-1.6538,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/farne-islands,
+George Stephenson's Birthplace,54.979287,-1.80473,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/george-stephensons-birthplace,
+Hadrian's Wall,55.013199,-2.32881,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/hadrians-wall-and-housesteads-fort,
+Lindisfarne Castle,55.6698,-1.78756,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/lindisfarne-castle,
+Seaton Delaval Hall,55.082846,-1.496508,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/seaton-delaval-hall,
+Wallington,55.1507,-1.95144,Northumberland,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/wallington,
+Clumber Park,53.269905,-1.072069,Nottinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/clumber-park,
+Mr Straw's House,53.315041,-1.115445,Nottinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/mr-straws-house,
+The Workhouse and Infirmary,53.0795,-0.93981,Nottinghamshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/nottinghamshire-lincolnshire/the-workhouse-and-infirmary,
+Badbury,51.6505,-1.6227,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/badbury,
+Buscot Old Parsonage,51.679798,-1.66544,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-old-parsonage,
+Buscot Park,51.6703,-1.64498,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-park,
+Buscot Village,51.676879,-1.66739,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-village,
+Chastleton,51.960098,-1.63895,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/chastleton,
+Coleshill Village and Parkland,51.640307,-1.660506,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/coleshill-village-parkland,
+Great Coxwell Barn,51.642799,-1.61404,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/great-coxwell-barn,
+Greys Court,51.5452,-0.95151,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/greys-court,
+Nuffield Place,51.585772,-1.02099,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/nuffield-place,
+Priory Cottage,51.620098,-1.32658,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/priory-cottage,
+White Horse Hill,51.577465,-1.567032,Oxfordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/white-horse-hill,
+Barafundle Bay,51.61837,-4.904087,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/barafundle-bay,
+Broad Haven South,51.60854,-4.9221,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/broad-haven-south,
+Cilgerran Castle,52.0574,-4.63413,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/cilgerran-castle,
+Cleddau Woodlands,51.719232,-4.878005,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/cleddau-woodlands,
+Colby Woodland Garden,51.742001,-4.67168,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/colby-woodland-garden,
+Freshwater West and Gupton Farm,51.65007,-5.04454,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/freshwater-west-and-gupton-farm,
+Marloes Sands and Mere,51.726572,-5.218818,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/marloes-sands-and-mere,
+"Martin's Haven, Pembrokeshire",51.736013,-5.245087,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/martins-haven-pembrokeshire,
+Porthclais,51.87106,-5.28437,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/porthclais,
+Solva Coast,51.874002,-5.188659,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/solva-coast,
+Southwood Estate,51.8509,-5.1142,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/southwood-estate,
+St David's Peninsula,51.880868,-5.26617,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/st-davids-peninsula,
+Stackpole Estate,51.612813,-4.926159,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/stackpole-estate,
+Stackpole Quay,51.62394,-4.90035,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/stackpole-quay,
+Strumble Head to Cardigan,52.006828,-5.064023,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/garn-fawr-to-poppit-sands,
+The St David’s Visitor Centre and Shop,51.880299,-5.26292,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/st-davids-peninsula-visitor-centre-and-shop,
+Tudor Merchant's House,51.671299,-4.69714,Pembrokeshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/tudor-merchants-house,
+Abergwesyn Common,52.160639,-3.676753,Powys,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/abergwesyn-common,
+Bannau Brycheiniog (Brecon Beacons),51.869149,-3.473123,Powys,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/bannau-brycheiniog-brecon-beacons,
+Henrhyd Falls,51.79411,-3.6643,Powys,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/henrhyd-falls,
+Powis Castle and Garden,52.6492,-3.15764,Powys,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/powis-castle-and-garden,
+Attingham Park,52.685842,-2.671193,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/attingham-park,
+Attingham Park Estate: Cronkhill,52.669399,-2.68733,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/attingham-park-estate-cronkhill,
+Attingham Park Estate: Town Walls Tower,52.705002,-2.75512,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/attingham-park-estate-town-walls-tower,
+Benthall Hall,52.6208,-2.50303,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/benthall-hall,
+Carding Mill Valley on the Long Mynd,52.5448,-2.82018,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/carding-mill-valley-on-the-long-mynd,
+Dudmaston Estate Comer Woods,52.507253,-2.381178,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/dudmaston-estate-comer-woods,
+Dudmaston Hall,52.495701,-2.36803,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/dudmaston,
+Ironbridge Gorge,52.639733,-2.493044,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/ironbridge-gorge,
+Sunnycroft,52.6955,-2.5167,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/sunnycroft,
+Wenlock Edge,52.5915,-2.57391,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/wenlock-edge,
+Wilderhope Manor,52.529301,-2.6725,Shropshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/wilderhope-manor,
+Coed Môr,53.222475,-4.183756,Sir Fôn,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/coed-mor,
+Barrington Court,50.960499,-2.85778,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/barrington-court,
+Bath Assembly Rooms,51.385799,-2.36123,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/bath-assembly-rooms,
+Bossington,51.22117,-3.582119,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/bossington,
+Brean Down,51.324402,-3.01443,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/brean-down,
+Cheddar Gorge,51.28534,-2.764218,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/cheddar-gorge,
+Coleridge Cottage,51.151657,-3.157475,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/coleridge-cottage,
+Dunster Castle and Watermill,51.186187,-3.438736,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/dunster-castle-and-watermill,
+Fyne Court,51.082907,-3.112139,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/fyne-court,
+Glastonbury Tor,51.143368,-2.707853,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/glastonbury-tor,
+Horner Wood,51.184803,-3.585608,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/horner-wood,
+King John's Hunting Lodge,51.2864,-2.82384,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/king-johns-hunting-lodge,
+Lytes Cary Manor,51.037258,-2.667,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/lytes-cary-manor,
+Montacute House,50.950569,-2.715212,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/montacute-house,
+"Priest's House, Muchelney",51.021042,-2.815183,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/priests-house-muchelney,
+Prior Park Landscape Garden,51.365851,-2.345748,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/prior-park-landscape-garden,
+Sand Point,51.388837,-2.963809,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/sand-point,
+Selworthy,51.210558,-3.547135,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/selworthy,
+Stembridge Tower Mill,51.071268,-2.810663,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/stembridge-tower-mill,
+Stoke-sub-Hamdon Priory,50.953933,-2.750884,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/stoke-sub-hamdon-priory,
+Tintinhull Garden,50.97485,-2.710639,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/tintinhull-garden,
+"Treasurer's House, Martock",50.968954,-2.768038,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/treasurers-house-martock,
+Webber's Post,51.18288,-3.571351,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/webbers-post,
+Wellington Monument,50.948397,-3.229276,Somerset,no,,National Trust,https://www.nationaltrust.org.uk/visit/somerset/wellington-monument,
+Dyrham Park,51.4805,-2.3629,South Gloucestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/bath-bristol/dyrham-park,
+Wentworth Castle Gardens,53.527001,-1.518116,South Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/wentworth-castle-gardens,
+Biddulph Grange Garden,53.129601,-2.15629,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/biddulph-grange-garden,
+Downs Banks,52.927613,-2.150201,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/downs-banks,
+Hawksmoor,52.995079,-1.943121,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/hawksmoor,
+"Ilam Park, Dovedale and the White Peak",53.052624,-1.805627,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/peak-district-derbyshire/ilam-park-dovedale-and-the-white-peak,
+Kinver Edge and the Rock Houses,52.450109,-2.242739,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/kinver-edge-and-the-rock-houses,
+Letocetum Roman Baths and Museum,52.657001,-1.85605,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/letocetum-roman-baths-and-museum,
+Moseley Old Hall,52.635101,-2.10463,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/moseley-old-hall,
+Shugborough Estate,52.789294,-2.033064,Staffordshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/shropshire-staffordshire/shugborough-estate,
+Dunwich Heath and Beach,52.25889,1.626715,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/dunwich-heath-and-beach,
+Flatford,51.957802,1.0261,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/flatford,
+Ickworth Estate,52.220965,0.657049,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/ickworth-estate,
+Kyson Hill,52.080922,1.309956,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/kyson-hill,
+Lavenham Guildhall,52.10876,0.79662,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/lavenham-guildhall,
+Melford Hall,52.0844,0.7281,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/melford-hall,
+Orford Ness National Nature Reserve,52.087399,1.54772,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/orford-ness-national-nature-reserve,
+Pin Mill,51.996323,1.213511,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/pin-mill,
+Sutton Hoo,52.095652,1.349691,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/sutton-hoo,
+Theatre Royal Bury St Edmunds,52.24063,0.716911,Suffolk,no,,National Trust,https://www.nationaltrust.org.uk/visit/suffolk/theatre-royal-bury-st-edmunds,
+Abinger Roughs and Netley Park,51.221382,-0.436988,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/abinger-roughs-and-netley-park,
+Black Down,51.070007,-0.687341,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/black-down,
+Bookham Commons,51.289827,-0.380458,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/bookham-commons,
+Box Hill,51.248901,-0.3101,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/box-hill,
+Clandon Park,51.252169,-0.505899,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/clandon-park,
+Claremont Landscape Garden,51.355785,-0.381433,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/claremont-landscape-garden,
+Denbies Hillside,51.240398,-0.361131,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/denbies-hillside,
+Frensham Little Pond,51.169901,-0.772727,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/frensham-little-pond,
+Ham House and Garden,51.443199,-0.31505,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/london/ham-house-and-garden,
+Harewoods,51.204693,-0.099284,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/harewoods,
+Hatchlands Park,51.253544,-0.477602,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/hatchlands-park,
+Headley Heath,51.263536,-0.281475,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/headley-heath,
+Hindhead Commons and the Devil's Punch Bowl,51.113998,-0.72858,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/hindhead-commons-and-the-devils-punch-bowl,
+Holmwood Common,51.201243,-0.326736,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/holmwood-common,
+Hydon's Ball and Heath,51.152508,-0.6014,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/hydons-ball-and-heath,
+Leith Hill,51.176899,-0.37276,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/leith-hill,
+Limpsfield Common,51.250685,0.042615,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/limpsfield-common,
+Oakhurst Cottage,51.132801,-0.62291,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/oakhurst-cottage,
+Polesden Lacey,51.261002,-0.36886,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/polesden-lacey,
+Reigate Hill and Gatton Park,51.25422,-0.200137,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/reigate-hill-and-gatton-park,
+River Wey and Godalming Navigations and Dapdune Wharf,51.2421,-0.57808,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/river-wey-and-godalming-navigations-and-dapdune-wharf,
+Shalford Mill,51.2192,-0.56645,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/shalford-mill,
+Swan Barn Farm,51.087323,-0.703522,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/swan-barn-farm,
+The Homewood,51.356013,-0.381423,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/the-homewood,
+Winkworth Arboretum,51.1614,-0.58113,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/winkworth-arboretum,
+Witley and Milford Commons,51.155602,-0.66853,Surrey,no,,National Trust,https://www.nationaltrust.org.uk/visit/surrey/witley-and-milford-commons,
+Penmaen and Nicholaston Burrows,51.5718,-4.1204,Swansea,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/penmaen-and-nicholaston-burrows,
+"Pennard, Pwll Du and Bishopston Valley",51.5669,-4.0878,Swansea,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/pennard-pwll-du-and-bishopston-valley,
+Rhosili and South Gower Coast,51.568525,-4.286882,Swansea,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/rhosili-and-south-gower-coast,
+Whiteford and North Gower,51.63,-4.2503,Swansea,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/whiteford-and-north-gower,
+Gibside,54.920502,-1.73174,Tyne & Wear,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/gibside,
+Penshaw Monument,54.883243,-1.48092,Tyne & Wear,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/penshaw-monument,
+Souter Lighthouse and The Leas,54.967999,-1.36124,Tyne & Wear,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/souter-lighthouse-and-the-leas,
+Washington Old Hall,54.9028,-1.5165,Tyne & Wear,no,,National Trust,https://www.nationaltrust.org.uk/visit/north-east/washington-old-hall,
+Dyffryn Gardens,51.4439,-3.3029,Vale of Glamorgan,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/dyffryn-gardens,
+Lanlay,51.47518,-3.32754,Vale of Glamorgan,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/lanlay-meadows,
+Baddesley Clinton,52.343832,-1.708463,Warwickshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/baddesley-clinton,
+Charlecote Park,52.205101,-1.62103,Warwickshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/charlecote-park,
+Farnborough Hall,52.136902,-1.36541,Warwickshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/farnborough-hall,
+Kinwarton Dovecote,52.2232,-1.8495,Warwickshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/kinwarton-dovecote,
+Packwood House,52.3465,-1.74551,Warwickshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/packwood-house,
+Upton House and Gardens,52.1109,-1.46744,Warwickshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/warwickshire/upton-house-and-gardens,
+Birmingham Back to Backs,52.473999,-1.8963,West Midlands,no,,National Trust,https://www.nationaltrust.org.uk/visit/birmingham-west-midlands/birmingham-back-to-backs,
+The Roundhouse,52.478946,-1.918828,West Midlands,no,,National Trust,https://www.nationaltrust.org.uk/visit/birmingham-west-midlands/roundhouse,
+Wightwick Manor and Gardens,52.58214,-2.195,West Midlands,no,,National Trust,https://www.nationaltrust.org.uk/visit/birmingham-west-midlands/wightwick-manor-and-gardens,
+Cissbury Ring,50.86014,-0.37932,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/cissbury-ring,
+Devil's Dyke,50.884595,-0.212355,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/devils-dyke,
+Drovers Estate,50.911197,-0.757158,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/drovers-estate,
+East Head,50.78114,-0.903841,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/east-head,
+Kew Wakehurst,51.064999,-0.08934,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/wakehurst,
+Lavington Common,50.960133,-0.65032,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/lavington-common,
+Nymans,51.05228,-0.199391,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/nymans,
+Petworth,50.9945,-0.611426,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/petworth,
+Saddlescombe Farm and Newtimber Hill,50.888979,-0.194322,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/saddlescombe-farm-and-newtimber-hill,
+Slindon Estate,50.860883,-0.636438,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/slindon-estate,
+Standen House and Garden,51.103506,-0.01664,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/standen-house-and-garden,
+Uppark House and Garden,50.952702,-0.88896,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/uppark-house-and-garden,
+Woolbeding Countryside,51.0271,-0.761295,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/woolbeding-countryside,
+Woolbeding Gardens,50.997385,-0.757902,West Sussex,no,,National Trust,https://www.nationaltrust.org.uk/visit/sussex/woolbeding-gardens,
+East Riddlesden Hall,53.873199,-1.87589,West Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/east-riddlesden-hall,
+Hardcastle Crags,53.758548,-2.01806,West Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/hardcastle-crags,
+Marsden Moor,53.601845,-1.93045,West Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/marsden-moor,
+Nostell,53.652599,-1.38881,West Yorkshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/yorkshire/nostell,
+Avebury,51.427502,-1.85611,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/avebury,
+Buscot and Coleshill Estates,51.640444,-1.660634,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/buscot-and-coleshill-estates,
+Calstone and Cherhill Downs,51.42359,-1.935232,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/calstone-and-cherhill-downs,
+Cley Hill,51.20299,-2.232584,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/cley-hill,
+Dinton Park and Philipps House,51.0849,-1.98937,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/dinton-park-and-philipps-house,
+Figsbury Ring,51.103196,-1.732867,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/figsbury-ring,
+Great Chalfield Manor and Garden,51.368198,-2.19942,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/great-chalfield-manor-and-garden,
+Heritage and Rural Skills Centre,51.640616,-1.660824,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/heritage-and-rural-skills-centre,
+Lacock,51.414799,-2.11941,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/lacock,
+Little Clarendon,51.0839,-1.97897,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/little-clarendon,
+Lockeridge Dene and Piggledene,51.404998,-1.795089,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/lockeridge-dene-and-piggledene,
+Mompesson House,51.06676,-1.79853,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/mompesson-house,
+Pepperbox Hill,51.022227,-1.698016,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/pepperbox-hill,
+Stonehenge Landscape,51.177601,-1.82776,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/stonehenge-landscape,
+Stourhead,51.105323,-2.317704,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/stourhead,
+Sutton Lane Meadows,51.497764,-2.078461,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/sutton-lane-meadows,
+"The Coombes, Hinton Parva",51.54707,-1.67168,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/the-coombes-hinton-parva,
+The Courts Garden,51.354401,-2.20101,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/the-courts-garden,
+Westwood Manor,51.329399,-2.27024,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/westwood-manor,
+White Barrow,51.220798,-1.9543,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/white-barrow,
+Win Green,50.985132,-2.108106,Wiltshire,no,,National Trust,https://www.nationaltrust.org.uk/visit/wiltshire/win-green,
+Bredon Barn,52.030201,-2.11954,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bredon-barn,
+Clent Hills,52.424823,-2.092195,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/clent-hills,
+Croome,52.105154,-2.166272,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/croome,
+Greyfriars House and Garden,52.190455,-2.21898,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/greyfriars-house-and-garden,
+Hanbury Hall,52.275398,-2.08633,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/hanbury-hall,
+Hawford Dovecote,52.242401,-2.22556,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/hawford-dovecote,
+Knowles Mill,52.386007,-2.351114,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/knowles-mill,
+Middle Littleton Tithe Barn,52.1213,-1.88429,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/middle-littleton-tithe-barn,
+Rosedene,52.354698,-2.10304,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/rosedene,
+The Firs,52.198983,-2.283497,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-firs,
+The Fleece Inn,52.090099,-1.86567,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/the-fleece-inn,
+Wichenford Dovecote,52.236801,-2.31302,Worcestershire,no,,National Trust,https://www.nationaltrust.org.uk/visit/worcestershire-herefordshire/wichenford-dovecote,
+Chirk Castle and Garden,52.935902,-3.08353,Wrexham,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/chirk-castle,
+Erddig Hall and Garden,53.027302,-3.00296,Wrexham,no,,National Trust,https://www.nationaltrust.org.uk/visit/wales/erddig,

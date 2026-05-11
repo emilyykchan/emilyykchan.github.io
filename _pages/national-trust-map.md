@@ -105,6 +105,15 @@ description: A growing map of National Trust and heritage places I have visited.
     margin-bottom: 0.35rem;
   }
 
+  .nt-popup-link {
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+  }
+
+  .nt-popup-link a {
+    color: var(--global-theme-color);
+  }
+
   /* Leaflet popup styling */
   .leaflet-popup-content-wrapper,
   .leaflet-popup-tip {
@@ -138,7 +147,7 @@ description: A growing map of National Trust and heritage places I have visited.
 </style>
 
 <div class="nt-map-intro">
-  A growing map of National Trust and heritage places I have visited across England.
+  Double click on the map to zoom in! 
 </div>
 
 <div class="nt-map-controls">

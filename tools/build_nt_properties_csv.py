@@ -23,7 +23,7 @@ FIELDNAMES = [
     "Visited",
     "Date",
     "HeritageGroup",
-    "Post",
+    "Link",
     "Note",
 ]
 
@@ -66,8 +66,8 @@ def fetch_nt_places():
                 "Visited": "no",
                 "Date": "",
                 "HeritageGroup": "National Trust",
-                "Post": "",
-                "Note": place.get("websiteUrl", "").strip(),
+                "Link": place.get("websiteUrl", "").strip(),
+                "Note": "",
             }
         )
 

@@ -126,19 +126,19 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-# external_sources:
-# - name: National Trust
-#   posts:
-#     - url: https://www.nationaltrust.org.uk/
-#       published_date: 2026-04-28
-#   categories: [external-posts]
-#   tags: [national-trust]
-# - name: Google Blog
-#   posts:
-#     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-#       published_date: 2024-05-14
-#   categories: [external-posts]
-#   tags: [google]
+external_sources:
+- name: National Trust Membership
+  posts:
+    - url: https://www.nationaltrust.org.uk/membership
+      published_date: 2020-01-01
+  categories: [external-posts]
+  tags: [national-trust]
+- name: HEAD Lab Imperial College
+  posts:
+    - url: https://www.imperial.ac.uk/human-experience-analysis-design/
+      published_date: 2022-01-01
+  categories: [external-posts]
+  tags: [research]
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -271,8 +271,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["images", "code", "reflection", "national-trust"] # these tags will be displayed on the front page of your blog
-display_categories: [] # these categories will be displayed on the front page of your blog
+display_tags: ["images", "reflection", "national-trust"] # these tags will be displayed on the front page of your blog
+display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

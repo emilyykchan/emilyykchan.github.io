@@ -6,6 +6,8 @@ description: "Beatrix Potter's home in the Lakes and family connections to Melfo
 tags: national-trust beatrix-potter literature lake-district suffolk images
 categories: blog
 thumbnail: assets/img/posts/2025-04-beatrix-potter/thumbnail.jpeg
+images:
+  lightbox2: true
 ---
 
 Some National Trust visits feel connected even when they are hundreds of miles apart.
@@ -24,12 +26,18 @@ Her work is often remembered through animals — rabbits, ducks, mice, kittens, 
 
 <div class="row mt-3">
   <div class="col-md-5 mx-auto mb-3">
-    <img
-      src="{{ '/assets/img/posts/2025-04-beatrix-potter/melford-drawing.jpeg' | relative_url }}"
-      class="img-fluid rounded z-depth-1"
-      alt="Beatrix Potter's drawing at Melford Hall"
-      data-zoomable
+    <a
+      href="{{ '/assets/img/posts/2025-04-beatrix-potter/melford-drawing.jpeg' | relative_url }}"
+      data-lightbox="melford-gallery"
+      data-title="A small Beatrix Potter drawing at Melford Hall."
     >
+      <img
+        src="{{ '/assets/img/posts/2025-04-beatrix-potter/melford-drawing.jpeg' | relative_url }}"
+        class="img-fluid rounded z-depth-1"
+        alt="Beatrix Potter's drawing at Melford Hall"
+        style="width: 100%; max-height: 420px; object-fit: contain;"
+      >
+    </a>
   </div>
 </div>
 
@@ -48,52 +56,87 @@ The garden is especially important. It has that slightly overflowing cottage-gar
 What I especially liked was how directly the house and garden are tied to her stories. Around the site, small illustrated signs point out scenes that appeared in the books, making it possible to see how closely Potter worked from real life. The place is not just associated with her imagination — it is part of its source. Potter’s illustrations are not simply “cute”. They are architectural and domestic. Her animals wear clothes and behave like people, but they live in recognisable rooms, kitchens, cupboards, lanes, ponds, gardens, and farmyards.
 
 <div class="row mt-3">
-  <div class="col-md-4 mb-3">
-    <img
-      src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-garden.jpeg' | relative_url }}"
-      class="img-fluid rounded z-depth-1"
-      alt="Hill Top garden"
-      data-zoomable
+  <div class="col-md-4 col-sm-6 mb-3">
+    <a
+      href="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-garden.jpeg' | relative_url }}"
+      data-lightbox="hilltop-gallery"
+      data-title="Hill Top garden."
     >
+      <img
+        src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-garden.jpeg' | relative_url }}"
+        class="img-fluid rounded z-depth-1"
+        alt="Hill Top garden"
+        style="width: 100%; height: 340px; object-fit: cover;"
+      >
+    </a>
   </div>
-  <div class="col-md-4 mb-3">
-    <img
-      src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-gate.jpeg' | relative_url }}"
-      class="img-fluid rounded z-depth-1"
-      alt="The white gate where cats watching Jemima Puddle-Duck"
-      data-zoomable
+
+  <div class="col-md-4 col-sm-6 mb-3">
+    <a
+      href="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-gate.jpeg' | relative_url }}"
+      data-lightbox="hilltop-gallery"
+      data-title="The white gate and surrounding village at Hill Top."
     >
+      <img
+        src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-gate.jpeg' | relative_url }}"
+        class="img-fluid rounded z-depth-1"
+        alt="The white gate where cats watching Jemima Puddle-Duck"
+        style="width: 100%; height: 340px; object-fit: cover;"
+      >
+    </a>
   </div>
-  <div class="col-md-4 mb-3">
-    <img
-      src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-sheep.jpeg' | relative_url }}"
-      class="img-fluid rounded z-depth-1"
-      alt="Lamb opposite Hill Top"
-      data-zoomable
+
+  <div class="col-md-4 col-sm-6 mb-3">
+    <a
+      href="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-sheep.jpeg' | relative_url }}"
+      data-lightbox="hilltop-gallery"
+      data-title="Sheep and lamb near Hill Top."
     >
+      <img
+        src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-sheep.jpeg' | relative_url }}"
+        class="img-fluid rounded z-depth-1"
+        alt="Lamb opposite Hill Top"
+        style="width: 100%; height: 340px; object-fit: cover;"
+      >
+    </a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-md-6 mb-3">
-    <img
-      src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-bedroom.jpeg' | relative_url }}"
-      class="img-fluid rounded z-depth-1"
-      alt="Bedroom at Hill Top"
-      data-zoomable
+    <a
+      href="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-bedroom.jpeg' | relative_url }}"
+      data-lightbox="hilltop-gallery"
+      data-title="Bedroom at Hill Top."
     >
+      <img
+        src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-bedroom.jpeg' | relative_url }}"
+        class="img-fluid rounded z-depth-1"
+        alt="Bedroom at Hill Top"
+        style="width: 100%; height: 420px; object-fit: cover;"
+      >
+    </a>
   </div>
+
   <div class="col-md-6 mb-3">
-    <img
-      src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-stairs.jpeg' | relative_url }}"
-      class="img-fluid rounded z-depth-1"
-      alt="Stairs at Hill Top"
-      data-zoomable
+    <a
+      href="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-stairs.jpeg' | relative_url }}"
+      data-lightbox="hilltop-gallery"
+      data-title="Stairs at Hill Top."
     >
+      <img
+        src="{{ '/assets/img/posts/2025-04-beatrix-potter/hilltop-stairs.jpeg' | relative_url }}"
+        class="img-fluid rounded z-depth-1"
+        alt="Stairs at Hill Top"
+        style="width: 100%; height: 420px; object-fit: cover;"
+      >
+    </a>
   </div>
 </div>
 
 <p class="text-center"><em>Scenes from Hill Top: the garden, the white gate and surrounding village, sheep in the Lake District landscape, and interiors that still feel closely connected to Potter’s books.</em></p>
+
+
 ## Beatrix Potter and the National Trust
 
 > ‘I wish there may be a sufficient representative number of the old farms in the hands of the Trust.’

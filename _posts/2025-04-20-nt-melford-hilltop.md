@@ -20,7 +20,7 @@ Melford Hall was not Beatrix Potter’s own house, but it holds a surprisingly p
 
 The Beatrix Potter connection in Melford Hall feels more like finding her in the margins of another family’s house: in visitor books, in drawings tucked into books, in rooms that preserve a sense of memory, and in objects that quietly echo her artistic world.
 
-Her work is often remembered through animals — rabbits, ducks, mice, kittens, frogs — but at Melford Hall you are reminded how much of her imagination came from looking carefully. She drew buildings, interiors, furniture, fireplaces, animals, and garden corners with the same attentiveness. The fantasy of her stories was built on very precise observation. Melford Hall helps show that her fictional world was not invented from nowhere; it grew out of real places she visited, studied, and remembered. 
+Her work is often remembered through animals — rabbits, ducks, mice, kittens, frogs — but at Melford Hall you are reminded how much of her imagination came from looking carefully. She drew buildings, interiors, furniture, fireplaces, animals, and garden corners with the same attentiveness. The fantasy of her stories was built on very precise observation. Melford Hall helps show that her fictional world was not invented from nowhere; it grew out of real places she visited, studied, and remembered.
 
 <div class="row mt-3">
   <div class="col-md-5 mx-auto mb-3">
@@ -41,11 +41,11 @@ I visited Hill Top on Easter Saturday, 2025. Hill Top feels different immediatel
 
 Beatrix Potter bought Hill Top Farm in 1905, after the success of her early books. It became her retreat from London, but also much more than that: a working farm, a place of independence, and a landscape she repeatedly transformed into stories.
 
-The house is small, warm, and full of things. It feels like someone has just stepped out from here for a walk. The rooms are filled with furniture, objects, and views that appear again and again in her books. Hill Top is not just where Potter lived; it is part of the visual language of her work. I would like a it more if it were less museum-like. 
+The house is small, warm, and full of things. It feels like someone has just stepped out from here for a walk. The rooms are filled with furniture, objects, and views that appear again and again in her books. Hill Top is not just where Potter lived; it is part of the visual language of her work. I would like a it more if it were less museum-like.
 
-The garden is especially important. It has that slightly overflowing cottage-garden feeling: vegetables, flowers, paths, stone walls, and corners where it is very easy to imagine one of her characters disappearing. The world of *The Tale of Tom Kitten*, *The Tale of Jemima Puddle-Duck*, and *The Tale of Samuel Whiskers* feels less like fantasy here and more like a parallel version of the real farm.
+The garden is especially important. It has that slightly overflowing cottage-garden feeling: vegetables, flowers, paths, stone walls, and corners where it is very easy to imagine one of her characters disappearing. The world of _The Tale of Tom Kitten_, _The Tale of Jemima Puddle-Duck_, and _The Tale of Samuel Whiskers_ feels less like fantasy here and more like a parallel version of the real farm.
 
-What I especially liked was how directly the house and garden are tied to her stories. Around the site, small illustrated signs point out scenes that appeared in the books, making it possible to see how closely Potter worked from real life. The place is not just associated with her imagination — it is part of its source. Potter’s illustrations are not simply “cute”. They are architectural and domestic. Her animals wear clothes and behave like people, but they live in recognisable rooms, kitchens, cupboards, lanes, ponds, gardens, and farmyards. 
+What I especially liked was how directly the house and garden are tied to her stories. Around the site, small illustrated signs point out scenes that appeared in the books, making it possible to see how closely Potter worked from real life. The place is not just associated with her imagination — it is part of its source. Potter’s illustrations are not simply “cute”. They are architectural and domestic. Her animals wear clothes and behave like people, but they live in recognisable rooms, kitchens, cupboards, lanes, ponds, gardens, and farmyards.
 
 <div class="row mt-3">
   <div class="col-md-4 mb-3">
@@ -100,7 +100,7 @@ What I especially liked was how directly the house and garden are tied to her st
 >
 > — Beatrix Potter in a letter to Eleanor Rawnsley, 1934
 
-What I find most impressive about Beatrix Potter is that her legacy did not stop with the books. She did not only write about the countryside; she helped protect it. 
+What I find most impressive about Beatrix Potter is that her legacy did not stop with the books. She did not only write about the countryside; she helped protect it.
 
 Her relationship with the National Trust began through the Lake District and through her friendship with Canon Hardwicke Drummond Rawnsley, one of the Trust’s three co-founders. Potter first visited the Lake District as a child, and an early stay at Wray Castle brought her into contact with Rawnsley. Later, as she became more financially independent through the success of her books, she began buying land and farms in the Lakes.
 

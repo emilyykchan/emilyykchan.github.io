@@ -162,9 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const link = place.Link
       ? `<div class="nt-popup-link"><a href="${place.Link}" target="${
           place.Link.startsWith("http") ? "_blank" : "_self"
-        }" rel="noopener noreferrer">${
-          place.Link.startsWith("http") ? "View property page" : "Read blog post"
-        }</a></div>`
+        }" rel="noopener noreferrer">${place.Link.startsWith("http") ? "View property page" : "Read blog post"}</a></div>`
       : "";
 
     return `${title}${meta}${note}${link}`;

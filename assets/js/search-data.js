@@ -124,6 +124,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/cream-collection/";
           
         },
+      },{id: "post-beatrix-potter-and-the-national-trust",
+        
+          title: "Beatrix Potter and the National Trust",
+        
+        description: "Beatrix Potter&#39;s home in the Lakes and family connections to Melford Hall",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nt-melford-hilltop/";
+          
+        },
       },{id: "post-wimpole-estate",
         
           title: "Wimpole Estate",
@@ -133,6 +144,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/nt-wimpole/";
+          
+        },
+      },{id: "post-go-swansea-boys",
+        
+          title: "Go Swansea boys!",
+        
+        description: "from the front row at Twickenham Stoop",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/twickenham/";
           
         },
       },{id: "books-the-godfather",

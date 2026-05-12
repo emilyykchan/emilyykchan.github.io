@@ -2,7 +2,7 @@
 layout: post
 title: "Ashridge Estate in different seasons"
 date: 2026-05-09 10:00:00
-tags: national-trust england
+tags: national-trust england images
 categories: out-of-office
 thumbnail: assets/img/posts/national_trust/ashridge-landscape-autumn.jpeg
 images:

@@ -29,7 +29,8 @@ In addition, we will present our translational project in progress at the **WCB 
 
 I am also very pleased that several works from my labmates were accepted to the congress. I am looking forward to sharing our recent work on computational biomechanics, brain injury metrics, and translational approaches to sport-related brain health.
 
-## <!-- Short version
+<!-- 
+## Short version
 
 layout: post
 title: Multiple presentations accepted at WCB 2026

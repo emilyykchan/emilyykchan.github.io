@@ -77,9 +77,6 @@ I have already written a short reflection for Mewburn Ellis about the internship
   </div>
 </div>
 
-
-
-
 ## SWOT analysis: patent attorney as a post-PhD career
 
 This post has a different purpose. Rather than writing another experience-based reflection, I wanted to use this space to think more critically about whether becoming a patent attorney could be a good career direction after my PhD.
@@ -160,14 +157,13 @@ This post has a different purpose. Rather than writing another experience-based 
 
 </div>
 
-
 ## A note on Mewburn Ellis
 
-My own experience with Mewburn Ellis was genuinely incredible. Across the internship week, I found the firm welcoming, thoughtful, and very generous with its time. 
+My own experience with Mewburn Ellis was genuinely incredible. Across the internship week, I found the firm welcoming, thoughtful, and very generous with its time.
 
-For anyone considering this route, Mewburn Ellis has been recruiting trainee patent attorneys for its Autumn 2026 intake. The roles are designed for people with strong scientific or technical backgrounds who are interested in using that expertise in a legal and commercial context. 
+For anyone considering this route, Mewburn Ellis has been recruiting trainee patent attorneys for its Autumn 2026 intake. The roles are designed for people with strong scientific or technical backgrounds who are interested in using that expertise in a legal and commercial context.
 
-__Update May 2026:__ the 2026 trainee patent attorney intake has now closed. According to the Mewburn Ellis careers page, their 2026 Trainee Patent Attorney opportunities are closed, and recruitment for the 2027 intake is expected to go live in the autumn.
+**Update May 2026:** the 2026 trainee patent attorney intake has now closed. According to the Mewburn Ellis careers page, their 2026 Trainee Patent Attorney opportunities are closed, and recruitment for the 2027 intake is expected to go live in the autumn.
 
 Their careers page is available here:
 

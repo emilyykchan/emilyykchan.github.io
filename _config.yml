@@ -127,18 +127,18 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
-- name: National Trust Membership
-  posts:
-    - url: https://www.nationaltrust.org.uk/membership
-      published_date: 2020-01-01
-  categories: [external-posts]
-  tags: [national-trust]
-- name: HEAD Lab Imperial College
-  posts:
-    - url: https://www.imperial.ac.uk/human-experience-analysis-design/
-      published_date: 2022-01-01
-  categories: [external-posts]
-  tags: [research]
+  - name: National Trust Membership
+    posts:
+      - url: https://www.nationaltrust.org.uk/membership
+        published_date: 2020-01-01
+    categories: [external-posts]
+    tags: [national-trust]
+  - name: HEAD Lab Imperial College
+    posts:
+      - url: https://www.imperial.ac.uk/human-experience-analysis-design/
+        published_date: 2022-01-01
+    categories: [external-posts]
+    tags: [research]
 
 # -----------------------------------------------------------------------------
 # Newsletter

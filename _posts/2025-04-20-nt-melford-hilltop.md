@@ -136,7 +136,6 @@ What I especially liked was how directly the house and garden are tied to her st
 
 <p class="text-center"><em>Scenes from Hill Top: the garden, the white gate and surrounding village, sheep in the Lake District landscape, and interiors that still feel closely connected to Potter’s books.</em></p>
 
-
 ## Beatrix Potter and the National Trust
 
 > ‘I wish there may be a sufficient representative number of the old farms in the hands of the Trust.’

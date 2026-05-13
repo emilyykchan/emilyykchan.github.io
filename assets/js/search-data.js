@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-blog",
+          title: "Blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "Publications by categories in reversed chronological order",
           section: "Navigation",
@@ -30,26 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "nav-almosts",
           title: "Almosts",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/almosts/";
-          },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "nav-map",
           title: "Map",
@@ -124,6 +117,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/cream-collection/";
           
         },
+      },{id: "post-patent-attorney",
+        
+          title: "Patent Attorney?",
+        
+        description: "A career-decision SWOT after my internship at Mewburn Ellis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/mewburn-internship/";
+          
+        },
       },{id: "post-beatrix-potter-and-the-national-trust",
         
           title: "Beatrix Potter and the National Trust",
@@ -155,6 +159,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/twickenham/";
+          
+        },
+      },{id: "post-error-the-request-could-not-be-satisfied",
+        
+          title: 'ERROR: The request could not be satisfied <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.imperial.ac.uk/human-experience-analysis-design/", "_blank");
+          
+        },
+      },{id: "post-membership-join-the-national-trust-national-trust",
+        
+          title: 'Membership | Join the National Trust | National Trust <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "With a National Trust membership, you&#39;ll help protect unforgettable places for future generations. Find out how to join the National Trust today.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.nationaltrust.org.uk/membership", "_blank");
           
         },
       },{id: "books-the-godfather",

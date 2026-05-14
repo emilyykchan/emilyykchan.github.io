@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contactless Jigsaw Puzzle Game
+title: Contactless Jigsaw Puzzle
 description: Gesture-controlled assistive game for children with ASD
-img: assets/projects/puzzlepieces/cover.jpg
+img: assets/img/projects/puzzlepieces/cover.jpg
 importance: 1
 category: work
 related_publications: false
@@ -95,7 +95,7 @@ related_publications: false
   </div>
 
    <div class="col-sm-7 offset-sm-1">
-    {% include figure.liquid path="assets/projects/puzzlepieces/gesture.jpg" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/projects/puzzlepieces/gesture.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -110,7 +110,7 @@ related_publications: false
 
   <div class="col-sm-7 offset-sm-1">
     {% include figure.liquid
-      path="assets/projects/puzzlepieces/system-layered-architecture.jpg"
+      path="assets/img/projects/puzzlepieces/system-layered-architecture.jpg"
       class="img-fluid rounded z-depth-1"
     %}
   </div>
@@ -127,7 +127,7 @@ related_publications: false
 
   <div class="col-sm-7 offset-sm-1">
     {% include figure.liquid
-      path="assets/projects/puzzlepieces/game-logic.jpg"
+      path="assets/img/projects/puzzlepieces/game-logic.jpg"
       class="img-fluid rounded z-depth-1"
     %}
   </div>
@@ -144,7 +144,7 @@ related_publications: false
 
   <div class="col-sm-7 offset-sm-1">
     {% include figure.liquid
-      path="assets/projects/puzzlepieces/ui.jpg"
+      path="assets/img/projects/puzzlepieces/ui.jpg"
       class="img-fluid rounded z-depth-1"
     %}
   </div>
@@ -161,7 +161,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center text-center mb-5">
   <div class="col-sm-8">
-    <a href="/assets/projects/puzzlepieces/puzzlepieces-report.pdf" target="_blank" rel="noopener noreferrer">
+    <a href="/assets/pdf/report-puzzlepieces.pdf" target="_blank" rel="noopener noreferrer">
       See my full process →
     </a>
   </div>

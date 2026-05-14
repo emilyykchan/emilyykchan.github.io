@@ -41,21 +41,41 @@ related_publications: false
     border: 0;
     display: block;
   }
+
+  .puzzlepieces-page .project-theme-btn {
+    color: var(--global-theme-color) !important;
+    border: 1px solid var(--global-theme-color) !important;
+    background-color: transparent !important;
+  }
+
+  .puzzlepieces-page .project-theme-btn:hover {
+    color: var(--global-bg-color) !important;
+    background-color: var(--global-theme-color) !important;
+    border-color: var(--global-theme-color) !important;
+  }
 </style>
 
 <!-- Overview and Outcome -->
 <div class="puzzlepieces-page">
 
-<div class="row mt-4">
-  <div class="col-sm-5">
+<div class="row mt-4 align-items-start">
+  <div class="col-sm-4">
     <h3>Overview</h3>
+  </div>
+
+  <div class="col-sm-8">
     <p>
       A gesture-controlled tangram game developed for children with autism spectrum disorder (ASD) at La Cañada High School in Valencia, Spain. Built in Unity using <a href="https://www.ultraleap.com/tracking/" target="_blank" rel="noopener noreferrer">Leap Motion</a>, the project explored how contactless interaction could support structured learning, spatial reasoning, and motor coordination in a special educational environment.
     </p>
   </div>
+</div>
 
-  <div class="col-sm-5 offset-sm-1">
+<div class="row mt-4 align-items-start">
+  <div class="col-sm-4">
     <h3>Outcome</h3>
+  </div>
+
+  <div class="col-sm-8">
     <p>
       The final system was deployed on both Windows and Android platforms and tested with children and teachers at La Cañada. Beyond gameplay itself, the project became an exploration of accessibility-focused interaction design — balancing technical precision, usability, and cognitive accessibility within a real classroom setting.
     </p>
@@ -164,6 +184,47 @@ related_publications: false
     <a href="/assets/pdf/report-puzzlepieces.pdf" target="_blank" rel="noopener noreferrer">
       See my full process →
     </a>
+  </div>
+</div>
+
+<!-- Project resources GitHub Repo -->
+<div class="row mt-4">
+  <div class="col-md-6 mt-3 mt-md-0">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Source code and documentation</h4>
+        <p class="card-text">
+          The Unity project source files, setup notes, screenshots, and platform-specific instructions are available on GitHub.
+        </p>
+        <a
+          href="https://github.com/emilyykchan/PuzzlePieces"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-sm project-theme-btn"
+        >
+          View GitHub repository →
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6 mt-3 mt-md-0">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Playable builds</h4>
+        <p class="card-text">
+          Final Android and Windows builds are provided through GitHub Releases. The Android version uses touch input, and the Windows version supports Leap Motion interaction.
+        </p>
+        <a
+          href="https://github.com/emilyykchan/PuzzlePieces/releases"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-sm project-theme-btn"
+        >
+          Download builds →
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 

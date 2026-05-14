@@ -214,8 +214,8 @@ ninja.data = [{
           section: "News",},{id: "news-short-communication-about-subject-specific-brain-strain-prediction-accepted-for-ircobi-2026",
           title: 'Short communication about subject-specific brain strain prediction accepted for IRCOBI 2026.',
           description: "",
-          section: "News",},{id: "projects-contactless-jigsaw-puzzle-game",
-          title: 'Contactless Jigsaw Puzzle Game',
+          section: "News",},{id: "projects-contactless-jigsaw-puzzle",
+          title: 'Contactless Jigsaw Puzzle',
           description: "Gesture-controlled assistive game for children with ASD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/contactless-puzzle-pieces/";

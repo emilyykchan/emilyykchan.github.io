@@ -216,9 +216,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-contactless-jigsaw-puzzle-game",
           title: 'Contactless Jigsaw Puzzle Game',
-          description: "Gesture-controlled assistive game for children with autism",
+          description: "Gesture-controlled assistive game for children with ASD",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project_puzzlepieces/";
+              window.location.href = "/projects/contactless-puzzle-pieces/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

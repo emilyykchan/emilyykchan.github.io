@@ -8,6 +8,7 @@ nav_order: 6
 
 A small archive of detours and things that did not quite work out.
 
+<!-- ######################################## -->
 <br>
 <details>
 <summary><strong>[Apr 2026] BJSM manuscript rejection</strong></summary>
@@ -27,6 +28,32 @@ Identify more suitable journal and revise for that.
 
 <hr>
 
+<!-- ######################################## -->
+
+<details>
+<summary><strong>[Dec 2025] Public Engagement funding application unsuccessful</strong></summary>
+
+<br>
+
+<strong>What happened:</strong><br>
+Our application for our translational project, TRACE, to Imperial Public Engagement Seed Fund application was unsuccessful. 
+
+<br><br>
+
+<strong>Analysis:</strong><br>
+The application was unsuccessful mainly because the panel felt the proposed activities were closer to consultation/user-testing than true co-design, with limited opportunity for public participants to shape TRACE meaningfully. They also felt the benefits, buy-in, remuneration, expenses, and longer-term engagement legacy for public participants were not clear. 
+
+<br><br>
+
+<strong>Decision</strong><br>
+We would apply for other translational fundings to support the co-design and development. 
+
+</details>
+
+<hr>
+
+
+<!-- ######################################## -->
 <details>
 <summary><strong>[May 2023] IRCOBI abstract rejection</strong></summary>
 
@@ -41,3 +68,6 @@ An abstract submitted to IRCOBI was not accepted. This is my first submission fo
 This study was submitted to the IOC conference and was accepted. I hence got the chance to present it in Monaco.
 
 </details>
+
+
+

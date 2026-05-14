@@ -43,6 +43,17 @@ Cream takes resting very seriously.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/nap-with-bigbean.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
+## Adventures
+
+Out and about, exploring the outdoor and even the world beyond his kingdom.
+
+<swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/garden-hemingford-roof.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/garden-hemingford-ice.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/garden-hemingford.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/garden-hemingford-2.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
 ## Portraits
 
 Formal and semi-formal portraits of Cream at his most handsome... or not.
@@ -58,10 +69,11 @@ Formal and semi-formal portraits of Cream at his most handsome... or not.
 These are the moments when Cream is clearly up to something.
 
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/xmas-gifts.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/xmas-bite-tree.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/xmas-gifts.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/flipped-under-bike.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/climbing.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/suitcase.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ## Curiousity
@@ -69,6 +81,8 @@ These are the moments when Cream is clearly up to something.
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/in-the-car.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/climbing-cot.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/office114.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/garden-hemingford-neighbour.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 ## Obsessed
@@ -76,14 +90,12 @@ These are the moments when Cream is clearly up to something.
 <swiper-container class="cream-slider" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/outlook-hemingford.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/outlook-florences.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/cream-collection/garden-hemingford-sit.jpeg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
 
 <!--
 ## Snacks
 A documented history of Cream being deeply committed to food.
-
-## Adventures
-Out and about, exploring the world beyond his usual kingdom.
 
 ## Vet Days
 Not his favourite category, but part of the full Cream archive.

@@ -128,6 +128,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/mewburn-internship/";
           
         },
+      },{id: "post-the-long-way-to-each-other",
+        
+          title: "The Long Way to Each Other",
+        
+        description: "Childhood friendship, migration, and the strange logistics of growing up across borders.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/JY-florida/";
+          
+        },
       },{id: "post-beatrix-potter-and-the-national-trust",
         
           title: "Beatrix Potter and the National Trust",
@@ -224,6 +235,11 @@ ninja.data = [{
           description: "CNN-based endoscopic image analysis for autonomous GI robot navigation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/endoscopic-landmark-detection/";
+            },},{id: "projects-your-brain-mesh",
+          title: 'Your Brain Mesh',
+          description: "Automated subject-specific brain finite element mesh creation pipeline",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/recode-brain-mesh/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

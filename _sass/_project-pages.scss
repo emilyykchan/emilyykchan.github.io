@@ -64,5 +64,15 @@
     margin: 1.5rem 0;
     background: var(--global-bg-color);
   }
+
+  .metric {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--global-theme-color);
+  }
+
+  .metric-label {
+    font-size: 0.95rem;
+  }
   
 }

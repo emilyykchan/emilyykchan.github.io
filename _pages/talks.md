@@ -29,7 +29,7 @@ nav_order: 5
   <div class="talks-row">
     <div class="talks-date">Jan 23,<br>2026</div>
     <div class="talks-content">
-      Invited talk at the inaugural Meeting of the Concussion Working Group, Institute of Sports, Exercise and Health (ISEH): <span class="talks-title">Biomechanics modelling in sports head injury</span>.
+      Invited talk at the inaugural Meeting of the Concussion Working Group, Institute of Sports, Exercise and Health (ISEH): <br>Biomechanics modelling in sports head injury.
     </div>
     <div class="talks-location">London,<br>UK</div>
   </div>
@@ -45,7 +45,7 @@ nav_order: 5
   <div class="talks-row">
     <div class="talks-date">May 19,<br>2025</div>
     <div class="talks-content">
-      Presentation at the 20th Injury Biomechanics Symposium on subject-specific brain modelling.
+      Presentation at the <a href="https://ibrc.osu.edu/2025-manuscripts-posters/">20th Injury Biomechanics Symposium</a>  on subject-specific brain modelling.
     </div>
     <div class="talks-location">Columbus, Ohio,<br>USA</div>
   </div>

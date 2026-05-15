@@ -3,7 +3,7 @@ layout: page
 title: Contactless Jigsaw Puzzle
 description: Gesture-controlled assistive game for children with ASD
 img: assets/img/projects/puzzlepieces/cover.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---

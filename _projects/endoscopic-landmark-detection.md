@@ -8,38 +8,7 @@ category: work
 related_publications: false
 ---
 
-<style>
-  .pylorus-page h3,
-  .pylorus-page h4 {
-    color: var(--global-theme-color);
-  }
-
-  .pylorus-page .project-note {
-    border-left: 4px solid var(--global-theme-color);
-    padding: 0.75rem 1rem;
-    margin: 1.5rem 0;
-    background: var(--global-bg-color);
-  }
-
-  .pylorus-page .project-card {
-    border: 1px solid var(--global-divider-color);
-    border-radius: 0.5rem;
-    padding: 1rem;
-    height: 100%;
-  }
-
-  .pylorus-page .metric {
-    font-size: 1.4rem;
-    font-weight: 600;
-    color: var(--global-theme-color);
-  }
-
-  .pylorus-page .metric-label {
-    font-size: 0.95rem;
-  }
-</style>
-
-<div class="pylorus-page" markdown="1">
+<div class="project-page" markdown="1">
 
 During my undergraduate studies, I contributed to a medical robotics research project on automatic anatomical landmark detection in endoscopic images. The project aimed to support autonomous navigation of gastrointestinal robots by detecting the natural anatomical centre of the pylorus, the opening between the stomach and the duodenum.
 

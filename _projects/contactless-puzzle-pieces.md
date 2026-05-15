@@ -8,55 +8,8 @@ category: work
 related_publications: false
 ---
 
-<style>
-  .puzzlepieces-page h3,
-  .puzzlepieces-page h4 {
-    color: var(--global-theme-color);
-  }
-
-/*  .puzzlepieces-page .project-img-fixed img {
-    width: 100%;
-    aspect-ratio: 1032 / 647;
-    object-fit: cover;
-    object-position: center;
-  }*/
-
-  .puzzlepieces-page .project-video {
-    max-width: 820px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .puzzlepieces-page .video-wrapper {
-    position: relative;
-    width: 100%;
-    aspect-ratio: 16 / 9;
-    overflow: hidden;
-    border-radius: 0.25rem;
-  }
-
-  .puzzlepieces-page .video-wrapper iframe {
-    width: 100%;
-    height: 100%;
-    border: 0;
-    display: block;
-  }
-
-  .puzzlepieces-page .project-theme-btn {
-    color: var(--global-theme-color) !important;
-    border: 1px solid var(--global-theme-color) !important;
-    background-color: transparent !important;
-  }
-
-  .puzzlepieces-page .project-theme-btn:hover {
-    color: var(--global-bg-color) !important;
-    background-color: var(--global-theme-color) !important;
-    border-color: var(--global-theme-color) !important;
-  }
-</style>
-
 <!-- Overview and Outcome -->
-<div class="puzzlepieces-page">
+<div class="project-page">
 
 <div class="row mt-4 align-items-start">
   <div class="col-sm-4">

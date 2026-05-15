@@ -219,6 +219,11 @@ ninja.data = [{
           description: "Gesture-controlled assistive game for children with ASD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/contactless-puzzle-pieces/";
+            },},{id: "projects-endoscopic-landmark-detection",
+          title: 'Endoscopic Landmark Detection',
+          description: "CNN-based endoscopic image analysis for autonomous GI robot navigation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/endoscopic-landmark-detection/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
